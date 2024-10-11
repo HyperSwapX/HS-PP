@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2024-10-11T09:57:32.292Z",
+  "lastUpdate": "2024-10-11T10:19:57.451Z",
   "points": {
     "0x2db6e8208f22581C70A4721fde7100eDDd660Df8": {
       "swapVol": 6.125267724548323,
@@ -164,7 +164,7 @@
     "0x73C2f8AE55981459e060850E7ec52509546a4C46": {
       "swapVol": 3.7295196616655812,
       "addLPVol": 1.2607953571037187,
-      "pts": 140
+      "pts": 150
     },
     "0xbc20265396eBC5C456DA115f0d08526877ED8E86": {
       "swapVol": 0.1,
@@ -2514,7 +2514,7 @@
     "0xa906bA82e949cd2F86be92A6085B977F270c89e0": {
       "swapVol": 9.52727230308315,
       "addLPVol": 0.1,
-      "pts": 220
+      "pts": 230
     },
     "0xeD74d3E7ac693289E2e8002A3c5CE0EDAa7fd57a": {
       "swapVol": 0.001,
@@ -5242,8 +5242,8 @@
       "pts": 0
     },
     "0x6c620a6809Da2Ad8e0fbc78E59F6a8F711fA2e30": {
-      "swapVol": 3.6e-7,
-      "addLPVol": 1.0192513954e-8,
+      "swapVol": 4.5e-7,
+      "addLPVol": 2.0192665892e-8,
       "pts": 0
     },
     "0x755F152A717527105682c40345f2a5c80A70d62e": {
@@ -5252,8 +5252,8 @@
       "pts": 0
     },
     "0x75f55EC1FF279862dd17d8F0eE05c96Fa1a3E910": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.01,
+      "addLPVol": 0.005,
       "pts": 0
     },
     "0x172Aa2ecF7ef019E9A02dC99d1E0794Bb0939A99": {
