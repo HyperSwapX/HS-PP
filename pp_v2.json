@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2024-11-03T12:33:36.303Z",
+  "lastUpdate": "2024-11-04T12:35:40.533Z",
   "points": {
     "0x2db6e8208f22581C70A4721fde7100eDDd660Df8": {
       "swapVol": 0,
       "addLPVol": 500,
-      "pts": 24560
+      "pts": 24640
     },
     "0xc45860B613D9C4bc1a069c7C915741953c236D55": {
       "swapVol": 0,
@@ -17,9 +17,9 @@
       "pts": 0
     },
     "0x287dDfa0ee3D68B93Ced6ee04D7e47466ACe9289": {
-      "swapVol": 0,
+      "swapVol": 51.65925361556453,
       "addLPVol": 0,
-      "pts": 0
+      "pts": 1270
     },
     "0x95c4843f6Fd8951509A2986C58672C43C463D4A7": {
       "swapVol": 0,
@@ -138,7 +138,7 @@
     },
     "0x7A77b0159270488c15a1A435a3Bb2799b1e15461": {
       "swapVol": 0.009,
-      "addLPVol": 2.46,
+      "addLPVol": 2.64,
       "pts": 120
     },
     "0xc915D2E71F3cBd69AF6f2a0b4aa4470c775df865": {
@@ -257,7 +257,7 @@
       "pts": 0
     },
     "0x041a3CaB9d367408c588Dc996Be8889562E7263E": {
-      "swapVol": 0.1,
+      "swapVol": 0.207,
       "addLPVol": 0,
       "pts": 0
     },
@@ -367,9 +367,9 @@
       "pts": 0
     },
     "0x251ac339184f083d00AD43c8b66FE607F459C5b8": {
-      "swapVol": 15.798119463737185,
+      "swapVol": 23.781025613646797,
       "addLPVol": 10,
-      "pts": 860
+      "pts": 1060
     },
     "0x11005cA141683CcC77632bD7f192622227231EB6": {
       "swapVol": 0,
@@ -519,7 +519,7 @@
     "0x98F192449406c4552AD6342Bd8abEe29A4A66951": {
       "swapVol": 41.423907939775674,
       "addLPVol": 1.0977930230650181,
-      "pts": 1050
+      "pts": 1060
     },
     "0x17b0B97cB56B8679d44b29DbA85DF4f6Efc75E55": {
       "swapVol": 0,
@@ -637,9 +637,9 @@
       "pts": 0
     },
     "0x8e8904933f107406d15f6cC3bd4b8F44f036248D": {
-      "swapVol": 22.63756733305685,
+      "swapVol": 23.42585733305685,
       "addLPVol": 2.638806301559645,
-      "pts": 670
+      "pts": 690
     },
     "0x8575846d8fdbCC9E4E346906aD51a65225912345": {
       "swapVol": 0,
@@ -659,7 +659,7 @@
     "0xBad81821aA1D4d3B75BF615159e91564028c80ee": {
       "swapVol": 74.41499377825266,
       "addLPVol": 8,
-      "pts": 2200
+      "pts": 2210
     },
     "0xBCd8BdcA15571a3994f381BB095c8De3CF9F17E6": {
       "swapVol": 0,
@@ -682,8 +682,8 @@
       "pts": 0
     },
     "0x77d6f73a09434a918148ED15C997BD9220Aa8208": {
-      "swapVol": 0.003652460733061313,
-      "addLPVol": 0.007630325921624823,
+      "swapVol": 0.2036524607330613,
+      "addLPVol": 0.20263032592162483,
       "pts": 0
     },
     "0x7E664720c20eeF5383626A4a916e858Cc7ec2fe7": {
@@ -712,9 +712,9 @@
       "pts": 0
     },
     "0x9F89cfa4297db5f6edce622DeE1eaD2B30F394A6": {
-      "swapVol": 0.5,
-      "addLPVol": 0.4992462635002923,
-      "pts": 30
+      "swapVol": 1.4270069517968254,
+      "addLPVol": 0.9984580391149406,
+      "pts": 70
     },
     "0x6175fbC374b66d4c8787786650BB17b4e6679754": {
       "swapVol": 0,
@@ -767,8 +767,8 @@
       "pts": 0
     },
     "0x6E61A72F0a50671F0979a961d9B9454a35EC52cD": {
-      "swapVol": 0.1,
-      "addLPVol": 0.05,
+      "swapVol": 0.11,
+      "addLPVol": 0.06,
       "pts": 0
     },
     "0xE894921Ff20644768237c71f93b93610681a701F": {
@@ -793,8 +793,8 @@
     },
     "0x2711D47B32516cBaC68e5F1F084647b0f31BFbd0": {
       "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "addLPVol": 0.5,
+      "pts": 20
     },
     "0xe1f0E834201e09bE0c340944683430E9D94F3bf0": {
       "swapVol": 0,
@@ -817,8 +817,8 @@
       "pts": 0
     },
     "0x15871341D47E2682476e1631152175Ac78816C28": {
-      "swapVol": 0.3,
-      "addLPVol": 0.000128942350404743,
+      "swapVol": 0.301,
+      "addLPVol": 0.013631385129696758,
       "pts": 0
     },
     "0x1b338cb587a6C805FD407c695d76E58F85cfc0df": {
@@ -927,7 +927,7 @@
       "pts": 0
     },
     "0xC19c83c73C10Ef32f41D0eB62bD5DB2ED6591E9E": {
-      "swapVol": 3.52,
+      "swapVol": 3.619006,
       "addLPVol": 7.008743549258699,
       "pts": 420
     },
@@ -984,7 +984,7 @@
     "0xa25cb943D8904560142A62786B50a3F09B2ddC93": {
       "swapVol": 1.6250419287083224,
       "addLPVol": 0.7,
-      "pts": 50
+      "pts": 60
     },
     "0x4380E81B871F772c2A60A3c346c485ad36C1af2c": {
       "swapVol": 0,
@@ -1222,7 +1222,7 @@
       "pts": 0
     },
     "0x597f31cD8622ca08eb60D1969533208847dfa7B9": {
-      "swapVol": 0.1,
+      "swapVol": 0.4,
       "addLPVol": 0,
       "pts": 0
     },
@@ -1362,9 +1362,9 @@
       "pts": 0
     },
     "0xB449EE589d1245B931Aa594771c6389E443AB345": {
-      "swapVol": 96.74008750194058,
+      "swapVol": 355.435559412674,
       "addLPVol": 7.22387335215748,
-      "pts": 2710
+      "pts": 9090
     },
     "0x1C5ccAbb70535266126B745c076a1C306F42A332": {
       "swapVol": 0,
@@ -1777,7 +1777,7 @@
       "pts": 0
     },
     "0x12B8f013F0F765A8D66dA0A8b7Ed7950396D561d": {
-      "swapVol": 0.12,
+      "swapVol": 0.22,
       "addLPVol": 0,
       "pts": 0
     },
@@ -1807,9 +1807,9 @@
       "pts": 0
     },
     "0x63dC2179A6e0E45f58bFc5E55B50116fc6669FC4": {
-      "swapVol": 7.3191524827028145,
-      "addLPVol": 5.9282,
-      "pts": 450
+      "swapVol": 13.213834701557811,
+      "addLPVol": 6.8782,
+      "pts": 640
     },
     "0x412f91754DC6e6fE45BF13718594cF79fA7D5712": {
       "swapVol": 0,
@@ -1827,8 +1827,8 @@
       "pts": 0
     },
     "0x314207d158b977Bd85f519B58c0fB80F111F19d4": {
-      "swapVol": 0.3,
-      "addLPVol": 2.797795514979623,
+      "swapVol": 0.31,
+      "addLPVol": 2.8077955149796234,
       "pts": 120
     },
     "0xEf21398eDDa90c9F2324eCaa8BcB0aFAeDd7C770": {
@@ -1857,8 +1857,8 @@
       "pts": 0
     },
     "0x3349259c2C0b82e2582C85AD706194A67EA4F72D": {
-      "swapVol": 0.11,
-      "addLPVol": 0.091,
+      "swapVol": 0.16,
+      "addLPVol": 0.141,
       "pts": 0
     },
     "0x37Ef8b14a330Ec14095325Bae9853fa30D0051BF": {
@@ -2187,9 +2187,9 @@
       "pts": 0
     },
     "0xa30d51dF51F3BBA845Fe87BFce2F30Cdb21E3c13": {
-      "swapVol": 45.59151891449525,
+      "swapVol": 50.691518914495255,
       "addLPVol": 7.242636134455616,
-      "pts": 1460
+      "pts": 1580
     },
     "0x26679eE5fd1A5664CBFF999e846AaBf3Fb10168E": {
       "swapVol": 0,
@@ -2313,7 +2313,7 @@
     },
     "0x0f6067abf49fB7bFc6265A57B7d8F9111DB3495c": {
       "swapVol": 0.001,
-      "addLPVol": 0,
+      "addLPVol": 0.014356983902285795,
       "pts": 0
     },
     "0x20a5Ac3cB82b1303871E218Cb5f460F8746c76AE": {
@@ -2497,9 +2497,9 @@
       "pts": 0
     },
     "0xd23CF715246e673a8C3cC8ca0c1a15C397777158": {
-      "swapVol": 0.0092,
-      "addLPVol": 0.0014,
-      "pts": 0
+      "swapVol": 1.0142,
+      "addLPVol": 0.8199555794449049,
+      "pts": 60
     },
     "0x6dd3eD51C529e91EC3DD802b5e154b25cEb95d6A": {
       "swapVol": 0,
@@ -2677,9 +2677,9 @@
       "pts": 0
     },
     "0xc73A7aF267B0147b273d6f5A8c01c596294F0e14": {
-      "swapVol": 2.8213625280480445,
+      "swapVol": 5.656623343942442,
       "addLPVol": 1.2498269410211849,
-      "pts": 120
+      "pts": 190
     },
     "0x9a36DB750f9706f54F4ec769C705903B58C70EB7": {
       "swapVol": 0,
@@ -2833,7 +2833,7 @@
     },
     "0xAbe75F4e9D585fD84acB74E6731cb986F1D1614C": {
       "swapVol": 1.0042,
-      "addLPVol": 0.21,
+      "addLPVol": 0.22,
       "pts": 20
     },
     "0xC8D022f96D37C3D455885C52e64C9ceE6fCe5d92": {
@@ -2967,8 +2967,8 @@
       "pts": 0
     },
     "0x1A27A53c70f76e3b62C01FB8D7DcB0B892AC55b6": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.2,
+      "addLPVol": 0.2,
       "pts": 0
     },
     "0x06Ae56bF30793678e71e1AF370205bEc6587Ef44": {
@@ -3317,8 +3317,8 @@
       "pts": 0
     },
     "0xEfFa2c15D5E7f4624BD55E4D58e1A248A3f218Ae": {
-      "swapVol": 0.32,
-      "addLPVol": 0.5445133788453266,
+      "swapVol": 0.37,
+      "addLPVol": 0.5918359507085142,
       "pts": 20
     },
     "0x0f0A4bcC34f5862C207f0979deC968226737b091": {
@@ -3357,9 +3357,9 @@
       "pts": 0
     },
     "0xeba2237E43693aD37466EB7B75A0e1c35407462e": {
-      "swapVol": 384.14565206116407,
-      "addLPVol": 189.00800290038856,
-      "pts": 18710
+      "swapVol": 500.9812944809971,
+      "addLPVol": 249.08779345231892,
+      "pts": 24600
     },
     "0xB1DE9f276143E431Bf1Fc010eB340153f375A718": {
       "swapVol": 0,
@@ -3387,9 +3387,9 @@
       "pts": 0
     },
     "0x3C516f085E94177Eaf0BdFB5b5eb1aB71052d064": {
-      "swapVol": 13.1,
-      "addLPVol": 4.732945212045224,
-      "pts": 540
+      "swapVol": 25.1,
+      "addLPVol": 14.732945212045223,
+      "pts": 1330
     },
     "0x60057786842AFf287eBb0bbf96E082733A4a667f": {
       "swapVol": 0,
@@ -3437,8 +3437,8 @@
       "pts": 0
     },
     "0x5189975fF8cE9ac3f13aCd8F0E78d7EC8DE70e8C": {
-      "swapVol": 3.5384730044753705,
-      "addLPVol": 0.3301264279947708,
+      "swapVol": 3.5884730044753703,
+      "addLPVol": 0.3801264279947708,
       "pts": 80
     },
     "0x323dF02916B7f570726D4dc2DaBa825D019bF323": {
@@ -3512,8 +3512,8 @@
       "pts": 0
     },
     "0x8f556aBB7071A6A2375F6B76e82668065B9aA765": {
-      "swapVol": 0.738,
-      "addLPVol": 0.848,
+      "swapVol": 0.808,
+      "addLPVol": 0.908,
       "pts": 50
     },
     "0xca7422116E44eb8b63aD04De9592F75812f4F6a0": {
@@ -3524,7 +3524,7 @@
     "0x3071dD1C76874fc33a63C81d8366B25113d833Ba": {
       "swapVol": 36.1683850620532,
       "addLPVol": 0,
-      "pts": 880
+      "pts": 890
     },
     "0x0a901a5372f9E0bBd38c3C8ffa6291655409464B": {
       "swapVol": 0,
@@ -3542,8 +3542,8 @@
       "pts": 0
     },
     "0x7735F49fb6958F38C7C906dCF3D49c795178af59": {
-      "swapVol": 3.8992918879096528,
-      "addLPVol": 0.3,
+      "swapVol": 3.949291887909653,
+      "addLPVol": 0.35,
       "pts": 90
     },
     "0xb207d34a81941bfa3C37Fb865D4457988cCb27FA": {
@@ -3562,8 +3562,8 @@
       "pts": 0
     },
     "0xE9A3A2205Aa71925a0D3576cf56823149E801b65": {
-      "swapVol": 0.927,
-      "addLPVol": 0.848,
+      "swapVol": 0.997,
+      "addLPVol": 0.908,
       "pts": 60
     },
     "0xDC6514F3137d3C9faF2498dBB1908870eD1763BF": {
@@ -3637,9 +3637,9 @@
       "pts": 0
     },
     "0xf29FF0F371b345D1071377702a0661Bf9DB5067e": {
-      "swapVol": 0.404,
-      "addLPVol": 8.436120075406324,
-      "pts": 400
+      "swapVol": 0.414,
+      "addLPVol": 9.721222729652881,
+      "pts": 470
     },
     "0x2F2EE591F5D495D522dcc240043257458d81910D": {
       "swapVol": 0,
@@ -3657,8 +3657,8 @@
       "pts": 0
     },
     "0xE0a7354641F2D719FE12c2eacB17131b1E764380": {
-      "swapVol": 0.11,
-      "addLPVol": 0.056195791191702184,
+      "swapVol": 0.12,
+      "addLPVol": 0.13630764716490987,
       "pts": 0
     },
     "0x2610235885E0842d3DF6a761A2D1214C3E588745": {
@@ -3682,9 +3682,9 @@
       "pts": 120
     },
     "0xd5272277ceeC9963b3f95A07DA11508FBc06589d": {
-      "swapVol": 0.6695405463015934,
+      "swapVol": 2.7401051325593393,
       "addLPVol": 0,
-      "pts": 10
+      "pts": 60
     },
     "0x0F911F7e37F294c84F72394EF9873EC1dA12e4e2": {
       "swapVol": 0,
@@ -3877,8 +3877,8 @@
       "pts": 0
     },
     "0x48404D67Fd8780Ac0816B9082228b1b825444b2f": {
-      "swapVol": 0.1,
-      "addLPVol": 0.10000255705437892,
+      "swapVol": 0.101,
+      "addLPVol": 0.10100255705437892,
       "pts": 0
     },
     "0xFaB55E7C8bF7B9E5D5eC11C8A84cdbC7A9B69526": {
@@ -3952,8 +3952,8 @@
       "pts": 200
     },
     "0x9C540d4C00039D3cB4A78fBCf75CF27b650Bc766": {
-      "swapVol": 0.1,
-      "addLPVol": 0.1,
+      "swapVol": 0.10000667450672011,
+      "addLPVol": 0.10000669459062064,
       "pts": 0
     },
     "0x8098628d8f0e45661eAd9c62fc54aa055C7FCb32": {
@@ -4037,9 +4037,9 @@
       "pts": 0
     },
     "0xE6beb09922160c89109380E8C3c88db51636b588": {
-      "swapVol": 1.483717603673479,
+      "swapVol": 2.2623560130333593,
       "addLPVol": 0.6382091991560763,
-      "pts": 50
+      "pts": 70
     },
     "0x7A8fB546Eb21d1343Bc24bBa5BA9132F4073AdaC": {
       "swapVol": 1.200101,
@@ -4087,9 +4087,9 @@
       "pts": 0
     },
     "0x0362545c8A5DB1D1FBA4869acB9bC7783b119D4f": {
-      "swapVol": 1.455742788082242,
-      "addLPVol": 1.22,
-      "pts": 70
+      "swapVol": 1.6060251816143654,
+      "addLPVol": 1.24,
+      "pts": 90
     },
     "0xCd32C620262Ae35BA32ed7658184d6b7aA8aC3d4": {
       "swapVol": 0,
@@ -4197,9 +4197,9 @@
       "pts": 0
     },
     "0xe2A4730Dc6dB4768e944cC6C90a838518b5E9700": {
-      "swapVol": 11.968788837946352,
-      "addLPVol": 6.056697647146286,
-      "pts": 570
+      "swapVol": 13.963009552481893,
+      "addLPVol": 7.089972724590104,
+      "pts": 680
     },
     "0x34eb1E51Bd983Fa725e3F1ccF0851d254562e0d0": {
       "swapVol": 0,
@@ -4233,8 +4233,8 @@
     },
     "0x607BE74F7c2D3C20aF1B58b86e2c5087dFA10f02": {
       "swapVol": 4.941060576706109,
-      "addLPVol": 0.5196099252071632,
-      "pts": 140
+      "addLPVol": 1.1121377616210015,
+      "pts": 160
     },
     "0xfcd350BB03E229c0e8A498aB8fcf7656592153e2": {
       "swapVol": 0,
@@ -4282,8 +4282,8 @@
       "pts": 0
     },
     "0x143C968F5Ee3Dd06B2539486b8507D1B0785018A": {
-      "swapVol": 0.06,
-      "addLPVol": 0.06,
+      "swapVol": 0.12,
+      "addLPVol": 0.12,
       "pts": 0
     },
     "0x5D6bd68d97798d22b59ccE22F81333F7c79043B3": {
@@ -4293,7 +4293,7 @@
     },
     "0x7021C18869784A697f98D69181F25e5e904c3d39": {
       "swapVol": 0.13,
-      "addLPVol": 0,
+      "addLPVol": 0.05,
       "pts": 0
     },
     "0x488C516D7C9B4AF9cFD8b9Cc14428a20440dE79c": {
@@ -4359,7 +4359,7 @@
     "0x6b86e2499Ed405c47b678E20043F1Dfa8dB1a938": {
       "swapVol": 17.090875017497808,
       "addLPVol": 7.037210034361972,
-      "pts": 750
+      "pts": 760
     },
     "0xf93BEbd09968283c3658C882a50AcCf46E1952E5": {
       "swapVol": 0,
@@ -4387,7 +4387,7 @@
       "pts": 0
     },
     "0xb9d68068d32d2CebEB5ebed953D462f5211b5e91": {
-      "swapVol": 0.006034564870394664,
+      "swapVol": 0.015044463576123058,
       "addLPVol": 0.105,
       "pts": 0
     },
@@ -4402,7 +4402,7 @@
       "pts": 0
     },
     "0xAfff61e14C447bd7d841944D984B457ED3f21d22": {
-      "swapVol": 0,
+      "swapVol": 0.2,
       "addLPVol": 0,
       "pts": 0
     },
@@ -4432,9 +4432,9 @@
       "pts": 30
     },
     "0xbe3f79aE0ab3294AAa3230c1155E912c05B6a55B": {
-      "swapVol": 5.326005595148549,
+      "swapVol": 7.326005595148549,
       "addLPVol": 5.4678564498034135,
-      "pts": 390
+      "pts": 440
     },
     "0x000000dF34E2422bb7744BC93Ab7594d371E2D4E": {
       "swapVol": 0,
@@ -4542,9 +4542,9 @@
       "pts": 0
     },
     "0x25f052AC77183435C000291caefAd58De09630b4": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 2.2336890876349127,
+      "addLPVol": 0.0477661024636432,
+      "pts": 50
     },
     "0x2BCd827b5767B4aff932B7172b92cDd21b10B43A": {
       "swapVol": 0,
@@ -4552,9 +4552,9 @@
       "pts": 0
     },
     "0x2bf22B645f54a3cf104Da719b62E66aaD8b72043": {
-      "swapVol": 6.66,
+      "swapVol": 9.771921469253622,
       "addLPVol": 0,
-      "pts": 160
+      "pts": 240
     },
     "0x5E4bbF181A8e4764FEd50bE3Eb2a8a6EB05aA11d": {
       "swapVol": 0,
@@ -4782,9 +4782,9 @@
       "pts": 0
     },
     "0x52A61E625A74d48027260b72c1E48A94Cac4bc5C": {
-      "swapVol": 0.35,
-      "addLPVol": 0.1,
-      "pts": 0
+      "swapVol": 0.41,
+      "addLPVol": 0.2,
+      "pts": 10
     },
     "0x960a6A3c5Ac60eA7E621F5b4474f7D1B868E3293": {
       "swapVol": 0,
@@ -4864,7 +4864,7 @@
     "0x1E978Fb3EEF3752DFb46e55A4a5960098a26548D": {
       "swapVol": 306.10579164458636,
       "addLPVol": 275.90712229232577,
-      "pts": 21060
+      "pts": 21120
     },
     "0xc0672435EFb1106392547319378D5E1A1736b208": {
       "swapVol": 0,
@@ -4907,9 +4907,9 @@
       "pts": 0
     },
     "0x9B9FC0B57F863cA87521C18E2608c2396E3dfb5c": {
-      "swapVol": 4.394,
+      "swapVol": 4.544,
       "addLPVol": 3.3565214347565,
-      "pts": 260
+      "pts": 270
     },
     "0xbA2c3a5D70381C8563B22E8cB4982c00d39BfF09": {
       "swapVol": 0,
@@ -5017,8 +5017,8 @@
       "pts": 0
     },
     "0x6E3d68b32BFB68c6C5735caE21f9eEE9F054235d": {
-      "swapVol": 0.737,
-      "addLPVol": 0.848,
+      "swapVol": 0.807,
+      "addLPVol": 0.908,
       "pts": 50
     },
     "0x0eAFa481c04CB06d5C5eb8aBa6f39d72e60c2c11": {
@@ -5047,9 +5047,9 @@
       "pts": 0
     },
     "0x6841f92bdE640CE1Cd31A2Ca158174396C0Bf883": {
-      "swapVol": 15.265414943082103,
-      "addLPVol": 5.999999999998656,
-      "pts": 650
+      "swapVol": 26.94216795081296,
+      "addLPVol": 14.599796861605979,
+      "pts": 1360
     },
     "0xC03f362A2C7cf555f1a49c5eCB7B98fB6D7bC667": {
       "swapVol": 0,
@@ -5067,9 +5067,9 @@
       "pts": 0
     },
     "0x762530E5a78B0c51113386B8df9691078A7eb93f": {
-      "swapVol": 620.0799697742111,
+      "swapVol": 895.5276035509028,
       "addLPVol": 11.684801581151115,
-      "pts": 15790
+      "pts": 22620
     },
     "0x445EBb2cE29788548F00A180d2AC8bb17aa98834": {
       "swapVol": 0.001,
@@ -5127,9 +5127,9 @@
       "pts": 0
     },
     "0xFa28102684EFc96bD89144A1825de619D80416B8": {
-      "swapVol": 0.2245359133712746,
-      "addLPVol": 0.7409086393514476,
-      "pts": 20
+      "swapVol": 0.6199211468673135,
+      "addLPVol": 0.8406576477706669,
+      "pts": 50
     },
     "0x79F5d62C2f08695536361E480e36349ceae6Dbcf": {
       "swapVol": 0,
@@ -5302,8 +5302,8 @@
       "pts": 0
     },
     "0xE06B9a01b50F2a4d8efAA4BB1C8a28Da13e54Ee7": {
-      "swapVol": 0.5,
-      "addLPVol": 0.1,
+      "swapVol": 0.7,
+      "addLPVol": 0.12,
       "pts": 10
     },
     "0xaE403aD95e069D82D23cAc06D583A23857EddCAc": {
@@ -5312,7 +5312,7 @@
       "pts": 0
     },
     "0xAb0Ab577d2d12633B9Ea0E96a061797425795e5d": {
-      "swapVol": 0,
+      "swapVol": 0.28191491560804954,
       "addLPVol": 0,
       "pts": 0
     },
@@ -5387,9 +5387,9 @@
       "pts": 0
     },
     "0x18bC8AE3366bC9F22E7cc7373EC3e25302750341": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 0.07,
+      "addLPVol": 1.983786360573907,
+      "pts": 80
     },
     "0xE1C203775e55884f8B0386766aEe16B4538f3309": {
       "swapVol": 0,
@@ -5397,9 +5397,9 @@
       "pts": 0
     },
     "0xd18FFca336db58F4F43F09D0B5750b054618b92b": {
-      "swapVol": 1,
-      "addLPVol": 18.006724299225365,
-      "pts": 900
+      "swapVol": 1.1,
+      "addLPVol": 21.172066557471993,
+      "pts": 1060
     },
     "0x93143283607AB9542088FC89e62413eEFb32D120": {
       "swapVol": 8.009933412404983,
@@ -5407,9 +5407,9 @@
       "pts": 370
     },
     "0x241860180A2437B48cD4e2Fba1Fc420Fe050523a": {
-      "swapVol": 0.46,
-      "addLPVol": 9.115369699885562,
-      "pts": 450
+      "swapVol": 0.47,
+      "addLPVol": 10.411464600566921,
+      "pts": 510
     },
     "0xd4f251aed02C3C017Af680B403f19f3fa327ecbD": {
       "swapVol": 0,
@@ -5417,9 +5417,9 @@
       "pts": 0
     },
     "0xeb4f14eBDD9e96f29535498Bd1B7c3A5992C92F4": {
-      "swapVol": 0.28,
-      "addLPVol": 6.242501684975217,
-      "pts": 300
+      "swapVol": 0.281,
+      "addLPVol": 7.336783554135114,
+      "pts": 360
     },
     "0xc6536a2A5C03483c712814f88A21518eb405F4b8": {
       "swapVol": 0.2745309149277216,
@@ -5457,9 +5457,9 @@
       "pts": 0
     },
     "0x42409750ac907932Fb1f460eCBd34EB5D7711764": {
-      "swapVol": 3.02768768317561,
-      "addLPVol": 0.33940705181099434,
-      "pts": 70
+      "swapVol": 6.197836019956145,
+      "addLPVol": 0.8455794614895054,
+      "pts": 190
     },
     "0xe65Ba5DeF6D233F0Ba109D845BC2a2D98De1fdf3": {
       "swapVol": 0,
@@ -5482,7 +5482,7 @@
       "pts": 0
     },
     "0x618522Ee6fd6d3b28889bD292eFd94Ea89CCc3AD": {
-      "swapVol": 0.162,
+      "swapVol": 0.362,
       "addLPVol": 0.01,
       "pts": 0
     },
@@ -5507,8 +5507,8 @@
       "pts": 0
     },
     "0x73dE04126953f79e0604e96b725e91e2CDD18E2F": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.1,
+      "addLPVol": 0.000101,
       "pts": 0
     },
     "0x71018B79C282A65c86d217e09163a5E8576D7eCA": {
@@ -5543,8 +5543,8 @@
     },
     "0x6b0cce7bA6856c2710D03559524007F2C43Efc05": {
       "swapVol": 0.5,
-      "addLPVol": 1,
-      "pts": 50
+      "addLPVol": 1.5,
+      "pts": 70
     },
     "0x5dd81Ce7c836020796AEA0DE1160C03aD107783B": {
       "swapVol": 0,
@@ -5602,8 +5602,8 @@
       "pts": 0
     },
     "0xe2198200BCD8B0a9fDf12eA8167c0dB403970BFa": {
-      "swapVol": 0.7,
-      "addLPVol": 0.5255629217038121,
+      "swapVol": 0.71,
+      "addLPVol": 0.5355359925160595,
       "pts": 30
     },
     "0xbeCc3AF4e952Ea459C43CBdC72cf74B901222CcB": {
@@ -5647,14 +5647,14 @@
       "pts": 0
     },
     "0x02ab9d831bA030997d1A84c62d150cE0AAf2A759": {
-      "swapVol": 13.102800345500034,
-      "addLPVol": 11.652059890278915,
-      "pts": 880
+      "swapVol": 13.846647733993208,
+      "addLPVol": 17.84751183217207,
+      "pts": 1200
     },
     "0x26991531362D86896496B331aef7848DEf7cD04e": {
-      "swapVol": 1.54,
-      "addLPVol": 0.32,
-      "pts": 30
+      "swapVol": 1.72,
+      "addLPVol": 0.38,
+      "pts": 40
     },
     "0xB30454d5bBD9bf18b2a63A31040818F6169BC772": {
       "swapVol": 0,
@@ -5664,7 +5664,7 @@
     "0x1c9bDACe4B2E97eB2e5b990b6cb35908BFf17381": {
       "swapVol": 15.952910969190972,
       "addLPVol": 8.117474512477424,
-      "pts": 770
+      "pts": 790
     },
     "0x27eE963Ba20b251EF7B6EAb768989e118cb67Cbf": {
       "swapVol": 0,
@@ -5742,9 +5742,9 @@
       "pts": 0
     },
     "0x432C707daFDB89a1765235D2a015A44c7CAc803a": {
-      "swapVol": 2.6278812420228204,
-      "addLPVol": 0.3363382500510206,
-      "pts": 60
+      "swapVol": 2.8778812420228204,
+      "addLPVol": 0.6393574662389004,
+      "pts": 90
     },
     "0x001337Ef7Fa3E4a237Ac9506Cda424b7bB2dd487": {
       "swapVol": 0,
@@ -5779,7 +5779,7 @@
     "0x7Ed162246748A218E0404542683eeE0FC08fE4bD": {
       "swapVol": 1.3189075716426644,
       "addLPVol": 0.40593015072728844,
-      "pts": 30
+      "pts": 50
     },
     "0xDC327F75E1B254D5528E3C09C8A4DE8D60463bD3": {
       "swapVol": 0,
@@ -5852,9 +5852,9 @@
       "pts": 0
     },
     "0x37E47933D6A1360866d5f4f79f6B591139022B00": {
-      "swapVol": 1.5562656320655182,
+      "swapVol": 2.0190765590788793,
       "addLPVol": 0.007440890828727136,
-      "pts": 30
+      "pts": 40
     },
     "0x76ff9db7B63A2BB3f0d0F8E1860010aa202006c8": {
       "swapVol": 0,
@@ -5997,12 +5997,12 @@
       "pts": 0
     },
     "0xcD6a37dB0816092ea52751EF45a3b0480505bBAd": {
-      "swapVol": 0.5511,
+      "swapVol": 0.5811,
       "addLPVol": 0,
       "pts": 10
     },
     "0xfc3e0069DC70ed83949bc95CcE7289DEB8c300e4": {
-      "swapVol": 1,
+      "swapVol": 1.1,
       "addLPVol": 0.9984761598235118,
       "pts": 60
     },
@@ -6037,9 +6037,9 @@
       "pts": 0
     },
     "0xc7643269Db1035e294cB8C8C71D5486944c395ae": {
-      "swapVol": 0.06,
-      "addLPVol": 0.02,
-      "pts": 0
+      "swapVol": 0.13,
+      "addLPVol": 1.02,
+      "pts": 40
     },
     "0x4A210Fd439098588aE68968B93396F7dd6aD19a7": {
       "swapVol": 0,
@@ -6112,14 +6112,14 @@
       "pts": 0
     },
     "0x0477474689314eC238F5C3c98b4aaAADFcCBd1fE": {
-      "swapVol": 0.02,
+      "swapVol": 0.32,
       "addLPVol": 0,
       "pts": 0
     },
     "0x7B604A1D22D50deD3Ea66708028DedEcd31eF307": {
-      "swapVol": 0.1,
-      "addLPVol": 1,
-      "pts": 40
+      "swapVol": 0.65,
+      "addLPVol": 2.5,
+      "pts": 130
     },
     "0xF30C7c7935A4eD7F764C1D14EF10e4Ab9D8A1B87": {
       "swapVol": 0,
@@ -6187,9 +6187,9 @@
       "pts": 0
     },
     "0x8ECC923e44D08dBc726fcdB8c92faE48499109b7": {
-      "swapVol": 14.837118106730383,
+      "swapVol": 18.56494186806913,
       "addLPVol": 7.261344872618907,
-      "pts": 700
+      "pts": 790
     },
     "0x3bF4bc9E711d0b58F7a429A98cE8641eFcC29eaF": {
       "swapVol": 0,
@@ -6212,9 +6212,9 @@
       "pts": 0
     },
     "0x26fFE1d17CFF02bD3045bE12981839abf65c78Ea": {
-      "swapVol": 7.740095143842188,
-      "addLPVol": 10.371422821699408,
-      "pts": 690
+      "swapVol": 16.73646754856165,
+      "addLPVol": 14.94464256767203,
+      "pts": 1130
     },
     "0x4E99883f627bAa621E0132287279Fc25497aeFf9": {
       "swapVol": 0,
@@ -6237,9 +6237,9 @@
       "pts": 0
     },
     "0xEcEB013c350Ce14F531436BE2e8283674694413A": {
-      "swapVol": 153.83120395040473,
-      "addLPVol": 79.72273043809035,
-      "pts": 7680
+      "swapVol": 213.5959954349014,
+      "addLPVol": 109.9257417099702,
+      "pts": 10660
     },
     "0xCa3E917925A0E6255B26A16379e9A8DbD57DF69D": {
       "swapVol": 0,
@@ -6299,7 +6299,7 @@
     "0xa4A4a26816AB3F6bEC7ecF9280862D850AbefB43": {
       "swapVol": 637.2957521640402,
       "addLPVol": 0,
-      "pts": 15650
+      "pts": 15700
     },
     "0xa37EA048210b9d2b4639f2d50bb2793f59f8cD92": {
       "swapVol": 0,
@@ -6427,19 +6427,19 @@
       "pts": 0
     },
     "0x5A3cd7C5aFBdE0b1Aca8B47dE6b739EaeD730D74": {
-      "swapVol": 0.492,
+      "swapVol": 0.9839595885547269,
       "addLPVol": 0,
-      "pts": 10
+      "pts": 20
     },
     "0x6f488925d7B78676Dc5be9464b20E6017849488b": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.05,
+      "addLPVol": 0.049,
       "pts": 0
     },
     "0x77b2dD33E6Cc978232bF71A2f4bc0f8450051691": {
-      "swapVol": 0.06,
-      "addLPVol": 0.01,
-      "pts": 0
+      "swapVol": 0.6132743534814543,
+      "addLPVol": 0.12820109973496607,
+      "pts": 10
     },
     "0x535123DC5dC16F502736D44473B1731cFf10D75C": {
       "swapVol": 0,
@@ -6517,7 +6517,7 @@
       "pts": 0
     },
     "0x7d11B1D63444E234af4E698027208D8A8A2Db431": {
-      "swapVol": 0.6621928995927111,
+      "swapVol": 0.7121928995927111,
       "addLPVol": 0.16404443627503493,
       "pts": 10
     },
@@ -6602,34 +6602,34 @@
       "pts": 0
     },
     "0x4364672FeaF5006c294f82F8796814b2c22e1609": {
-      "swapVol": 0.42,
-      "addLPVol": 17.024284877715363,
-      "pts": 830
+      "swapVol": 0.43,
+      "addLPVol": 19.62187896648838,
+      "pts": 970
     },
     "0x970a7583b214F3656e2F3a2F5e4f329ba422623F": {
-      "swapVol": 0.43,
-      "addLPVol": 10.434381461342621,
-      "pts": 510
+      "swapVol": 0.431,
+      "addLPVol": 10.924390785406773,
+      "pts": 530
     },
     "0x57BfA54b0F6fEc09c9F2efCdB48FE78D032F323d": {
-      "swapVol": 0.42,
-      "addLPVol": 15.062165788724148,
-      "pts": 750
+      "swapVol": 0.43,
+      "addLPVol": 17.824711063471494,
+      "pts": 870
     },
     "0x897fD744b8d0E35147d990356E52f02049793644": {
-      "swapVol": 0.321,
-      "addLPVol": 10.911309127294233,
-      "pts": 520
+      "swapVol": 0.331,
+      "addLPVol": 11.917013981318265,
+      "pts": 580
     },
     "0x8cc769177F7991dcB3C36AF1F7D64F1E9259b418": {
-      "swapVol": 2.78,
-      "addLPVol": 4.16,
+      "swapVol": 2.807580732381093,
+      "addLPVol": 4.31,
       "pts": 260
     },
     "0x48B6C4cA544cc54aEDEDFF14b6eA331f13e059A8": {
-      "swapVol": 0.412,
-      "addLPVol": 13.754539984811498,
-      "pts": 670
+      "swapVol": 0.413,
+      "addLPVol": 16.879396346332147,
+      "pts": 830
     },
     "0x56697445f0cbC7Fc5c1a0Cce552B29c672438519": {
       "swapVol": 0,
@@ -7187,9 +7187,9 @@
       "pts": 0
     },
     "0x980aE81a71B6AE7E42A32D38CE21b44287954989": {
-      "swapVol": 3.7701381263567315,
+      "swapVol": 4.7724621192269465,
       "addLPVol": 0,
-      "pts": 90
+      "pts": 110
     },
     "0x4d6Bd20391f36bE0Ed58b9F2906BCBfa3b18Cb01": {
       "swapVol": 0,
@@ -7197,9 +7197,9 @@
       "pts": 0
     },
     "0x76700A638a8CC9bcc5b0Ea415b5e52b1e0D44bb6": {
-      "swapVol": 0.5177841193506213,
-      "addLPVol": 0.05,
-      "pts": 10
+      "swapVol": 1.2438005215010086,
+      "addLPVol": 0.31,
+      "pts": 30
     },
     "0x6759175Cb771684C530e83d7D9793b4ba2d3808B": {
       "swapVol": 0,
@@ -7242,7 +7242,7 @@
       "pts": 0
     },
     "0x7c3472a1826874C917bF207F1c9bBed0C779E210": {
-      "swapVol": 0.25,
+      "swapVol": 0.2514,
       "addLPVol": 0.12984558934793966,
       "pts": 0
     },
@@ -7327,9 +7327,9 @@
       "pts": 0
     },
     "0xeBda9979B078DE258eAd319331152Aea945f58FC": {
-      "swapVol": 2,
-      "addLPVol": 2,
-      "pts": 120
+      "swapVol": 4,
+      "addLPVol": 4,
+      "pts": 270
     },
     "0xec30552DF6E7239D9D629446744C518ABd9a85dc": {
       "swapVol": 0,
@@ -7413,8 +7413,8 @@
     },
     "0x4EacF78d62BD800f7b76f6f07c08974207389fF5": {
       "swapVol": 1.425839133122198,
-      "addLPVol": 0.7672857624534262,
-      "pts": 50
+      "addLPVol": 1.037233261874824,
+      "pts": 70
     },
     "0xaD3FAaf1CD54A13E9f92F46519d21ceAb71b4e0c": {
       "swapVol": 0,
@@ -7582,7 +7582,7 @@
       "pts": 0
     },
     "0x831F3c3CB0FC2d801f7b47Ac4623F73cEA7c63f3": {
-      "swapVol": 0.2,
+      "swapVol": 0.3,
       "addLPVol": 0,
       "pts": 0
     },
@@ -7767,9 +7767,9 @@
       "pts": 0
     },
     "0xD811Ff81D3a8f5B895B18014916B42E8d54e3B6b": {
-      "swapVol": 0.71453690164815,
-      "addLPVol": 0,
-      "pts": 10
+      "swapVol": 1.008828842959182,
+      "addLPVol": 0.2,
+      "pts": 20
     },
     "0x9e4211D50B1e16472354Cbab935461498e379916": {
       "swapVol": 0,
@@ -7828,8 +7828,8 @@
     },
     "0x83889BdE47189C7dFc2d775f3Ed7011295F5652B": {
       "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "addLPVol": 0.6,
+      "pts": 20
     },
     "0x5c0b6970B78Ce049d542AaB6678de36fcE915c5d": {
       "swapVol": 0,
@@ -7837,7 +7837,7 @@
       "pts": 0
     },
     "0x013d0CB7Bf84e71Ef0BDaf1a75383A07301eA6A3": {
-      "swapVol": 0.07,
+      "swapVol": 0.076,
       "addLPVol": 0.06,
       "pts": 0
     },
@@ -7897,9 +7897,9 @@
       "pts": 0
     },
     "0x4f69494698F66018F5C2A0cc653EFb7aEEA07810": {
-      "swapVol": 38.91804137361398,
-      "addLPVol": 15.224659337849502,
-      "pts": 1690
+      "swapVol": 54.870878040564136,
+      "addLPVol": 23.316259183620478,
+      "pts": 2490
     },
     "0xCDb6d4f1183Ac0d7A36146ec3B8030A9c595f72e": {
       "swapVol": 0,
@@ -7917,18 +7917,18 @@
       "pts": 0
     },
     "0xDD91e578f00cdb58F182d2A6C5E519327E7f41Ef": {
-      "swapVol": 0.108,
-      "addLPVol": 0.712690846156197,
+      "swapVol": 0.1083,
+      "addLPVol": 0.7136396813776612,
       "pts": 20
     },
     "0xA939B3f76F82FD37D96995c5118aa3590724b1E2": {
-      "swapVol": 1.6559520947121402,
-      "addLPVol": 1.630274087467491,
+      "swapVol": 1.6949520947121401,
+      "addLPVol": 1.664323712362654,
       "pts": 120
     },
     "0x912186C7979Bb9861fDEa88553a268a4037e189F": {
-      "swapVol": 0.2,
-      "addLPVol": 0.2,
+      "swapVol": 0.25,
+      "addLPVol": 0.25,
       "pts": 0
     },
     "0x3E1E956188841F6C302dB1036C58f3d0dBdAD2a3": {
@@ -7937,9 +7937,9 @@
       "pts": 0
     },
     "0xA24e01B0ec18f50F10A97679F8C74B75adDe9BB9": {
-      "swapVol": 0.38,
-      "addLPVol": 0.4252744270987694,
-      "pts": 20
+      "swapVol": 0.9551648530808114,
+      "addLPVol": 0.8243594470449453,
+      "pts": 60
     },
     "0x80969a8Ae1E6646d5f03d9B61429bd5392E5c4ac": {
       "swapVol": 0,
@@ -7947,23 +7947,23 @@
       "pts": 0
     },
     "0x0a86Fe58188A91fe9376B314bCb7342367285933": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 4.375929493842669,
+      "addLPVol": 0.05,
+      "pts": 100
     },
     "0x4bbD2e1919903506008D8991e5EC265Aa0A3bf4E": {
-      "swapVol": 0.081,
-      "addLPVol": 0.19999075472760405,
-      "pts": 0
+      "swapVol": 0.0812,
+      "addLPVol": 0.6790517628098919,
+      "pts": 20
     },
     "0x2797008D1314961A8AbfA89120c3952A7a310bFf": {
-      "swapVol": 0.71,
-      "addLPVol": 0.1483511462456458,
+      "swapVol": 0.714,
+      "addLPVol": 0.15696169525663592,
       "pts": 10
     },
     "0x89F6444B94007914b2C26d24f08b98C798B36e74": {
-      "swapVol": 0.039,
-      "addLPVol": 0.23768271004691827,
+      "swapVol": 0.03907,
+      "addLPVol": 0.23769271004691828,
       "pts": 0
     },
     "0xa54493fF8562D249e4bD1fAe6045b4618689628b": {
@@ -7972,8 +7972,8 @@
       "pts": 0
     },
     "0x6c48Ba552C9FD0F98580c0f8AF678C15222710B9": {
-      "swapVol": 0.12,
-      "addLPVol": 0.24223368245514748,
+      "swapVol": 0.12001,
+      "addLPVol": 0.368750500158342,
       "pts": 0
     },
     "0xBC0C706Aa9BffD9c67b639353c5d0F49c29179c2": {
@@ -8007,12 +8007,12 @@
       "pts": 0
     },
     "0x9636ab5b59235e37A71D967B81f0130D753e3914": {
-      "swapVol": 0.8131811436751751,
-      "addLPVol": 0.8113020523836851,
-      "pts": 30
+      "swapVol": 0.9032508580430376,
+      "addLPVol": 0.9154808921971331,
+      "pts": 60
     },
     "0xf6eE6aF22B4C52d70932c90a5382DaE4CAA74339": {
-      "swapVol": 0,
+      "swapVol": 0.01,
       "addLPVol": 0,
       "pts": 0
     },
@@ -8237,7 +8237,7 @@
       "pts": 0
     },
     "0x9C9e249e209b79fABE87f437C7fbd1f162b8E87c": {
-      "swapVol": 0,
+      "swapVol": 0.001,
       "addLPVol": 0,
       "pts": 0
     },
@@ -8484,7 +8484,7 @@
     "0x2C7c58C9ad124e83Ba6FDe1049F255B40969c552": {
       "swapVol": 62.62781795273306,
       "addLPVol": 24.376956021851612,
-      "pts": 2710
+      "pts": 2740
     },
     "0x83Ec7Ec8284d833a486cE2C8122475667EB5BC59": {
       "swapVol": 0,
@@ -8502,9 +8502,9 @@
       "pts": 0
     },
     "0x5Bb79461530Dd0e16D76841C7e51B15611464150": {
-      "swapVol": 0.313,
-      "addLPVol": 0.3763188735354519,
-      "pts": 0
+      "swapVol": 0.3137,
+      "addLPVol": 0.48370932338615347,
+      "pts": 20
     },
     "0x5C7E88913B4673c9530B26017e2Bc56a8c8B569E": {
       "swapVol": 0,
@@ -8672,8 +8672,8 @@
       "pts": 0
     },
     "0x56e69c93e6a9F7431f59479fAa2f6778EBC8830D": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.0315532020670309,
+      "addLPVol": 0.009970643511392034,
       "pts": 0
     },
     "0x3f3C780D539Fca58CC5798cAdfc1C45cD82E8132": {
@@ -8722,9 +8722,9 @@
       "pts": 0
     },
     "0xf15B2a6CCa9C34F345D00E534b1920cF6497cE32": {
-      "swapVol": 1,
+      "swapVol": 2.1,
       "addLPVol": 0,
-      "pts": 20
+      "pts": 50
     },
     "0x6a5A10B635bBFFE36C27FAdC83b0c6D7b5a0893B": {
       "swapVol": 0,
@@ -8732,9 +8732,9 @@
       "pts": 0
     },
     "0x1932Fb0AF87269d5B6f94295C6F5145008e43EFF": {
-      "swapVol": 0.00313,
-      "addLPVol": 16.92000932967909,
-      "pts": 820
+      "swapVol": 0.00373,
+      "addLPVol": 18.59651410506592,
+      "pts": 900
     },
     "0x5B44930E8166A4B105Eb2790659A1dD903F6c315": {
       "swapVol": 0,
@@ -8772,7 +8772,7 @@
       "pts": 0
     },
     "0xCa9EA372B1752c3f99a1b0F7054eee161ab22534": {
-      "swapVol": 4.628679905699512,
+      "swapVol": 4.833472013032005,
       "addLPVol": 0.8383208856082662,
       "pts": 150
     },
@@ -8842,7 +8842,7 @@
       "pts": 0
     },
     "0x77fC74e0463388F3b06fcF501C9FdcDd38EB4b0E": {
-      "swapVol": 0.213,
+      "swapVol": 0.219,
       "addLPVol": 0.17,
       "pts": 0
     },
@@ -8962,14 +8962,14 @@
       "pts": 0
     },
     "0x726FFcFA3afBeCB2390FbA479CfCe1ddd410a30F": {
-      "swapVol": 0.02335059865513764,
+      "swapVol": 0.024782168825230905,
       "addLPVol": 0.05093139945788841,
       "pts": 0
     },
     "0xb1C8842b4d4d31E771494417D1Dae14280767C21": {
       "swapVol": 192,
       "addLPVol": 231.91259404444622,
-      "pts": 16090
+      "pts": 16150
     },
     "0x876e4BA0Aa97fC213EDc729Ba1Eae9eE12DBc1Dd": {
       "swapVol": 0,
@@ -9002,8 +9002,8 @@
       "pts": 0
     },
     "0xD776b5a2e8ffbff99EFc4df51BBA2dEd0C56e6dD": {
-      "swapVol": 0.2016992435444974,
-      "addLPVol": 0.045097202265595514,
+      "swapVol": 0.2416992435444974,
+      "addLPVol": 0.16895933116713827,
       "pts": 0
     },
     "0x0b3b6b34b01e7DA046eFb982b9B2f0005De7C30E": {
@@ -9022,8 +9022,8 @@
       "pts": 0
     },
     "0x53D4C1997cc0cC79a1d62227ae75b7fcC880Ec6D": {
-      "swapVol": 0.21,
-      "addLPVol": 0.125,
+      "swapVol": 0.33,
+      "addLPVol": 0.245,
       "pts": 0
     },
     "0xe65005aa2fAC8Acd34BB04Cf2D25cD9777E2cC1B": {
@@ -9062,7 +9062,7 @@
       "pts": 20
     },
     "0x4234d5A865eE1DD2610378F43dff8A5cE40ec0f1": {
-      "swapVol": 0,
+      "swapVol": 0.05,
       "addLPVol": 0,
       "pts": 0
     },
@@ -9092,9 +9092,9 @@
       "pts": 0
     },
     "0xc7c16F5FB49B572801217C1297A17e47699DF4B0": {
-      "swapVol": 0.251,
-      "addLPVol": 8.02337837471822,
-      "pts": 380
+      "swapVol": 0.261,
+      "addLPVol": 8.506480362674475,
+      "pts": 400
     },
     "0x7a6A0c69190b3d08A953D814c604Fb2e4927Dc1C": {
       "swapVol": 0,
@@ -9157,18 +9157,18 @@
       "pts": 0
     },
     "0x8Ca39b8aD6cb747f586479790736DFFBE76074a3": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012485130665546861,
+      "addLPVol": 0.009970321115049937,
       "pts": 0
     },
     "0x7432a82D4ffBEbA329948Bf0fb77A48eFFD57569": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012485146563140335,
+      "addLPVol": 0.00997032106955701,
       "pts": 0
     },
     "0x00Ddceb5482552CD37ad59341d09Cd9bC1Cad1F9": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012485178584723405,
+      "addLPVol": 0.009970513391855751,
       "pts": 0
     },
     "0x9FB320ce8f8A9377a054f7C12742fbBD49e7a726": {
@@ -9199,7 +9199,7 @@
     "0xD3C3Cb1d95BEea40C2E2E3d209e0c3A1508da5f6": {
       "swapVol": 13.414141714123799,
       "addLPVol": 0,
-      "pts": 320
+      "pts": 330
     },
     "0x18aA295d7F911c2ad62Ba0c63bEa58568df41957": {
       "swapVol": 0,
@@ -9207,8 +9207,8 @@
       "pts": 0
     },
     "0x2376C5554888ca43744F91Ff181e46a70D69350f": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012477997747869335,
+      "addLPVol": 0.009971217964917668,
       "pts": 0
     },
     "0x4FB07447C7Ee91adAF483De122C4c4C7483cEDcc": {
@@ -9237,7 +9237,7 @@
       "pts": 0
     },
     "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d": {
-      "swapVol": 0.15,
+      "swapVol": 0.21,
       "addLPVol": 0.04,
       "pts": 0
     },
@@ -9357,8 +9357,8 @@
       "pts": 0
     },
     "0xC3983198008b4894aFCAD04A655ab5dc9a26e570": {
-      "swapVol": 0.00305,
-      "addLPVol": 0.031209678531183498,
+      "swapVol": 0.0137,
+      "addLPVol": 0.13230799309912605,
       "pts": 0
     },
     "0x68aEd797F28CF9b62FFD52a34B4a119C07c1e10a": {
@@ -9417,9 +9417,9 @@
       "pts": 0
     },
     "0x2cb0126D68abDd49E12c111267690adc51d758A2": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 0.007459105330554119,
+      "addLPVol": 0.5,
+      "pts": 20
     },
     "0xE7dd1C42aB8ad7b915FE7F26c6caED61FE6393Cd": {
       "swapVol": 0,
@@ -9433,7 +9433,7 @@
     },
     "0x773Bf46eDFE278E5ABDb54f14e3Be0e2a5b3711B": {
       "swapVol": 0,
-      "addLPVol": 0,
+      "addLPVol": 0.0021121497904223,
       "pts": 0
     },
     "0xdfA395162CDf27935992ac32e10A9902373dC48e": {
@@ -9537,7 +9537,7 @@
       "pts": 0
     },
     "0x4d448E4AADB8e74837c852E5134A0945734Ae1C3": {
-      "swapVol": 0.722,
+      "swapVol": 0.727,
       "addLPVol": 0.13001099554139742,
       "pts": 10
     },
@@ -9762,8 +9762,8 @@
       "pts": 0
     },
     "0xE87748F3BA385389A91F22326E23bE4253259389": {
-      "swapVol": 0.0079,
-      "addLPVol": 0.000284319878295318,
+      "swapVol": 0.0085,
+      "addLPVol": 0.000287375557456103,
       "pts": 0
     },
     "0xF64E783771B290d97816a2902489859724a9F1ee": {
@@ -9887,9 +9887,9 @@
       "pts": 0
     },
     "0x56ab8f22371c9e7C0828091cF21F28C9D9f20B00": {
-      "swapVol": 0.0001,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 0.2801,
+      "addLPVol": 1.4517140211381727,
+      "pts": 60
     },
     "0xDBe31B911Af7BA4C73091722fbDe9b80F78632B7": {
       "swapVol": 0,
@@ -10042,9 +10042,9 @@
       "pts": 10
     },
     "0x0EF678F3B6002294A2E62EE68c3Dde3fd8d7c999": {
-      "swapVol": 18.33355935224567,
+      "swapVol": 19.57081802471834,
       "addLPVol": 0.2985426049414895,
-      "pts": 450
+      "pts": 480
     },
     "0x9af2168d92ABAf53531533fA9545D1D5353D0700": {
       "swapVol": 0,
@@ -10112,7 +10112,7 @@
       "pts": 0
     },
     "0x60E9417fA3f7a2c565d3243d257f656FC2AFc15a": {
-      "swapVol": 0.14,
+      "swapVol": 0.26,
       "addLPVol": 0,
       "pts": 0
     },
@@ -10237,9 +10237,9 @@
       "pts": 0
     },
     "0x0e6fa87738545029Cf8E9207EA2C0f283877e7DF": {
-      "swapVol": 1.4906753953622964,
+      "swapVol": 6.954040463861587,
       "addLPVol": 2.429429332842731,
-      "pts": 130
+      "pts": 270
     },
     "0xA29777d946dbcAaB0295C76440402c78B8F31E6A": {
       "swapVol": 0,
@@ -10252,9 +10252,9 @@
       "pts": 0
     },
     "0x340Ba3649524E222aEa2227D132D661D8fbB9474": {
-      "swapVol": 0.5017643522870476,
+      "swapVol": 1.2588883199270426,
       "addLPVol": 0,
-      "pts": 10
+      "pts": 30
     },
     "0x1935ad5924fF5Cdd17712dE33a12a24A42e50e04": {
       "swapVol": 0,
@@ -10292,9 +10292,9 @@
       "pts": 0
     },
     "0x6c12A6c29B53190a5b1580E9a443dd0bDa46aF06": {
-      "swapVol": 10.86218407702782,
-      "addLPVol": 1.7281981218963762,
-      "pts": 340
+      "swapVol": 11.36218407702782,
+      "addLPVol": 2.2271441296721055,
+      "pts": 370
     },
     "0xF4954707e4f04fDe0CA18730933aa45F061d0A5A": {
       "swapVol": 0,
@@ -10377,8 +10377,8 @@
       "pts": 0
     },
     "0x9543F73a255d123cCf4Ebe33da70Babd2ecC0aA3": {
-      "swapVol": 2.1155364222260302,
-      "addLPVol": 1.039644930463545,
+      "swapVol": 2.11653642222603,
+      "addLPVol": 1.0406419333426895,
       "pts": 90
     },
     "0x96BC50B9373d8A45Efbb3eE6af3B90E4D31186AD": {
@@ -10742,7 +10742,7 @@
       "pts": 0
     },
     "0xd504CBc5B0450D4e3F62add6363Dd14ac7AE2996": {
-      "swapVol": 1.0089998999950265,
+      "swapVol": 1.1089998800837362,
       "addLPVol": 0,
       "pts": 20
     },
@@ -10759,7 +10759,7 @@
     "0x86d2789d7B64B43c2fb47aFdD8B492a61c75DA1a": {
       "swapVol": 1.1,
       "addLPVol": 1.2185964405588552,
-      "pts": 60
+      "pts": 80
     },
     "0xFDE24731572880D57e14c3d22D07F65A366b52E0": {
       "swapVol": 0,
@@ -10792,8 +10792,8 @@
       "pts": 0
     },
     "0x1Eec2BbAc393a7A24AAf614Cfc049DC40b9C8F9f": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.01,
+      "addLPVol": 0.017543540873657962,
       "pts": 0
     },
     "0x7Fd58C6C915Bca9b3908bb8364305c1617f6A5F3": {
@@ -10867,9 +10867,9 @@
       "pts": 0
     },
     "0xD11142D82f53f3406508C45d584a0b5C59EAaD8f": {
-      "swapVol": 0.021,
-      "addLPVol": 2.220017361236502,
-      "pts": 100
+      "swapVol": 0.02691,
+      "addLPVol": 3.3114040018051067,
+      "pts": 160
     },
     "0x584cc644AF4239f67b55E337b393486b8328e264": {
       "swapVol": 0.0999999999992428,
@@ -10952,7 +10952,7 @@
       "pts": 0
     },
     "0x326830819c16DB6eD61476dFf14C0BadE33A1e8f": {
-      "swapVol": 0.6,
+      "swapVol": 0.8,
       "addLPVol": 1.1545794650090297,
       "pts": 50
     },
@@ -10962,8 +10962,8 @@
       "pts": 0
     },
     "0x354342e324B29635f8c6f984A946Ef6689CdDB26": {
-      "swapVol": 0.48422989467048544,
-      "addLPVol": 0.13,
+      "swapVol": 0.5001974444712445,
+      "addLPVol": 0.15,
       "pts": 10
     },
     "0x1898c85130375ECf277436a07FC348984cB3E798": {
@@ -11142,7 +11142,7 @@
       "pts": 0
     },
     "0x19fB1442131549D264316748D804589C834d07a7": {
-      "swapVol": 0,
+      "swapVol": 0.05934121255049299,
       "addLPVol": 0,
       "pts": 0
     },
@@ -11157,9 +11157,9 @@
       "pts": 0
     },
     "0xc82262F0A9E86D757598a8E6E1Ea35F9cA751F13": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 0.5,
+      "addLPVol": 0.08791056427721652,
+      "pts": 10
     },
     "0xd9b89d9e90d3eE03fF2D3bfbe5f4Bb871B706Dc2": {
       "swapVol": 0.01,
@@ -11167,7 +11167,7 @@
       "pts": 0
     },
     "0xe4A0E58081EcD671dd1Ad177e2e9876dA1b527F2": {
-      "swapVol": 0.01,
+      "swapVol": 0.06,
       "addLPVol": 0,
       "pts": 0
     },
@@ -11177,14 +11177,14 @@
       "pts": 0
     },
     "0x457b2af50140d790d93396Afb24f61ba9844520C": {
-      "swapVol": 31.959134240749343,
+      "swapVol": 34.95913424074934,
       "addLPVol": 2,
-      "pts": 860
+      "pts": 940
     },
     "0x615190Cc7420B3419dedb89C811cF9B44BA06454": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 20,
+      "addLPVol": 2.9165115658536216,
+      "pts": 630
     },
     "0x6CD3539F7b8Da1472f5d39aF485a10fe0249420a": {
       "swapVol": 0,
@@ -11287,9 +11287,9 @@
       "pts": 0
     },
     "0xc94327c66997022518Df0Bc1b43AA9D71372599a": {
-      "swapVol": 1.2241923173120142,
-      "addLPVol": 0.8659160137456714,
-      "pts": 70
+      "swapVol": 1.324192317312014,
+      "addLPVol": 1.483938131318407,
+      "pts": 90
     },
     "0x577704b66a0554cE944E9185B7b851FeE4AADF4a": {
       "swapVol": 0,
@@ -11377,7 +11377,7 @@
       "pts": 0
     },
     "0x0eDf2aF3f21C0D9A4c03a1455b46044D65E116A1": {
-      "swapVol": 0.73,
+      "swapVol": 0.78,
       "addLPVol": 0.4601242083676336,
       "pts": 30
     },
@@ -11407,9 +11407,9 @@
       "pts": 0
     },
     "0xBC4567B4943279582a82bb34fB501352dbC602e6": {
-      "swapVol": 3.368022484559651,
+      "swapVol": 10.036840301630956,
       "addLPVol": 1.0297451321073303,
-      "pts": 120
+      "pts": 280
     },
     "0x21F0fFEfe08Ca0f4FE76C05a9a150435088f05e0": {
       "swapVol": 0,
@@ -11417,28 +11417,28 @@
       "pts": 0
     },
     "0xb5911450BbD273378CAfcFE04C41df06DE2E1Ad9": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.01,
+      "addLPVol": 0.009970324002051638,
       "pts": 0
     },
     "0x22a2C1bED0BbBdA955E573D07bFFf65c3Eae09e7": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.01,
+      "addLPVol": 0.009970712156374914,
       "pts": 0
     },
     "0x5384d55f94e2ec9331142D9A870De6F95908f825": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012507028656841845,
+      "addLPVol": 0.009970712074639145,
       "pts": 0
     },
     "0xD54B50C8DA54CC4B355e3bBa820b2a4724008Fe3": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.012485210567933166,
+      "addLPVol": 0.009970321092441519,
       "pts": 0
     },
     "0x697a459C83132615DBdc64BC63514B325F3BB3a2": {
-      "swapVol": 0.24,
-      "addLPVol": 0.029844169701557045,
+      "swapVol": 0.3,
+      "addLPVol": 0.08967321474292826,
       "pts": 0
     },
     "0x83B57ebF0a8e8BD5234C9BfCad5323C009468cF8": {
@@ -11472,9 +11472,9 @@
       "pts": 0
     },
     "0xC076b1eDBf4995A20866B3B1E94Fc326ea6e69AE": {
-      "swapVol": 0.56,
-      "addLPVol": 0,
-      "pts": 10
+      "swapVol": 3.007105896778432,
+      "addLPVol": 0.12,
+      "pts": 70
     },
     "0x5bd46A051B1609db9a338aEfd927A1654db01297": {
       "swapVol": 0.000303,
@@ -11517,9 +11517,9 @@
       "pts": 0
     },
     "0xFcA30f7f3a2bafb98D875Bd566bEda5f61ee1F0C": {
-      "swapVol": 0.3,
+      "swapVol": 0.5,
       "addLPVol": 0.1051,
-      "pts": 0
+      "pts": 10
     },
     "0xD3bB0370976d65bDCE4894EC525fEAa3Bd65Dabe": {
       "swapVol": 0,
@@ -11534,12 +11534,12 @@
     "0x1Bc586C1cDD02E3DfBcd92d16777936d1A67B7fc": {
       "swapVol": 97.47548902343014,
       "addLPVol": 8.00067169941431,
-      "pts": 2770
+      "pts": 2780
     },
     "0xA538DB2D2C7Cc6Db07C7EE486Ec82f8543aB46BA": {
       "swapVol": 201.54044520317092,
       "addLPVol": 32.63104109111248,
-      "pts": 6550
+      "pts": 6560
     },
     "0x70F6a9Bd207ce5DcE190a11f780691b7070e067A": {
       "swapVol": 0,
@@ -11577,7 +11577,7 @@
       "pts": 0
     },
     "0x4C535E77Ec376c21D1d9A2423F01F3cdA816513A": {
-      "swapVol": 0.7,
+      "swapVol": 0.73,
       "addLPVol": 0,
       "pts": 10
     },
@@ -11598,7 +11598,7 @@
     },
     "0x42CB170769851FF2e3a6A196fDF9b741e1dEb54a": {
       "swapVol": 0.09019999997924098,
-      "addLPVol": 0.0009,
+      "addLPVol": 0.0099,
       "pts": 0
     },
     "0x20a828492c2e7649C0b5EE731a9b8005825d0a73": {
@@ -11627,8 +11627,8 @@
       "pts": 0
     },
     "0xE9d437708ff45B8a3c9D3353df7eB505a793F444": {
-      "swapVol": 0.3951319331463646,
-      "addLPVol": 0.06656647962607044,
+      "swapVol": 0.713134284043046,
+      "addLPVol": 0.08231647962607044,
       "pts": 10
     },
     "0x31E76097895eb2D514C2a33932e5E0df8e29e944": {
@@ -11697,8 +11697,8 @@
       "pts": 0
     },
     "0xCcC7a03F131b9eEA4fE1C440b74D59b5ee639D55": {
-      "swapVol": 0.1,
-      "addLPVol": 0.04,
+      "swapVol": 0.14718886197036704,
+      "addLPVol": 0.06,
       "pts": 0
     },
     "0xbD8350b51efc43a0878F942878Ec2d5b1264c473": {
@@ -11767,7 +11767,7 @@
       "pts": 0
     },
     "0xEBa6109fe80cce5c9C1a6A37F3fdC0AfD1746f8f": {
-      "swapVol": 0,
+      "swapVol": 0.005,
       "addLPVol": 0,
       "pts": 0
     },
@@ -11827,9 +11827,9 @@
       "pts": 0
     },
     "0x3654Be9E580D23a50e4F4bada6eD32cc6B43c9FF": {
-      "swapVol": 1.5871860707527299,
-      "addLPVol": 1.0964055093073928,
-      "pts": 70
+      "swapVol": 31.284004955438114,
+      "addLPVol": 7.985619325541846,
+      "pts": 1150
     },
     "0xa6D3793d36b8DFe38D24c8eeA7016EfDB6994726": {
       "swapVol": 0.06116,
@@ -11968,7 +11968,7 @@
     },
     "0x6A0dE0F5c1dC7D9e8d515B81BdE2b809Cf44Fc60": {
       "swapVol": 0,
-      "addLPVol": 0,
+      "addLPVol": 0.006467693693989107,
       "pts": 0
     },
     "0xC3aEf874B3B159df8CEcB2a014e6a7576AEb6d6C": {
@@ -12002,9 +12002,9 @@
       "pts": 0
     },
     "0x6Dd9D1e0acE2bc5802e13D1BCCA2016C8161f219": {
-      "swapVol": 0.3249917140163519,
-      "addLPVol": 0.27747643278544254,
-      "pts": 0
+      "swapVol": 0.4160671653286432,
+      "addLPVol": 0.28554195916486763,
+      "pts": 10
     },
     "0xF40d6e8e9e50B2a5f0e383F5E4Fcc97c77264e4a": {
       "swapVol": 0.001,
@@ -12072,8 +12072,8 @@
       "pts": 0
     },
     "0x7bb98FbB6f24cD5F5A198f1A3b000EaB8B0cB212": {
-      "swapVol": 0.08005,
-      "addLPVol": 0.5797521665707723,
+      "swapVol": 0.15505,
+      "addLPVol": 0.6059733515737394,
       "pts": 20
     },
     "0x62a73D9116Eda78A78f4cF81602Bdc926fB4C0Dd": {
@@ -12097,9 +12097,9 @@
       "pts": 0
     },
     "0x2f9C57DC6748e7C89B765f2bAE92358a7F8f0e7f": {
-      "swapVol": 0.11,
-      "addLPVol": 0,
-      "pts": 0
+      "swapVol": 0.711918611909464,
+      "addLPVol": 0.24958600412656126,
+      "pts": 10
     },
     "0x3e337bcBaEe726A610b9f1BD9BF997b4AC578178": {
       "swapVol": 0,
@@ -12117,8 +12117,8 @@
       "pts": 0
     },
     "0xE77A729AF6B9BA5Ce5F5431C7b143d08206e81FD": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.05,
+      "addLPVol": 0.04986517282584072,
       "pts": 0
     },
     "0xBa9bAc554670A11e8C38539F275F248F618DCC3E": {
@@ -12152,9 +12152,9 @@
       "pts": 0
     },
     "0x93745C500Fc185578084789De7eE7e6ADBd5f011": {
-      "swapVol": 111.3116725768363,
+      "swapVol": 160.25739398531235,
       "addLPVol": 4.23,
-      "pts": 2930
+      "pts": 4140
     },
     "0x18ac20C896EeD449B0B5F9ffF31a8e38efF6A9eD": {
       "swapVol": 0.01,
@@ -12262,12 +12262,12 @@
       "pts": 0
     },
     "0x9Bc8eB215e81f2396b7Fc1A360912b49803AF60D": {
-      "swapVol": 0,
-      "addLPVol": 0,
+      "swapVol": 0.011,
+      "addLPVol": 0.010967283413535958,
       "pts": 0
     },
     "0x2b43d40423B2b728Ed90F6C1E188377429e1950A": {
-      "swapVol": 0.3325,
+      "swapVol": 0.3585,
       "addLPVol": 0.042243287541694756,
       "pts": 0
     },
@@ -12302,34 +12302,34 @@
       "pts": 0
     },
     "0xc5E65368A181eE45C4F5496B0091289963264e85": {
-      "swapVol": 0.1987,
+      "swapVol": 12.515964724771509,
       "addLPVol": 0,
-      "pts": 0
+      "pts": 300
     },
     "0x151a570B638670f2217E75E36cDfc860e430c616": {
-      "swapVol": 0.2298,
-      "addLPVol": 0,
-      "pts": 0
-    },
-    "0x3A2d76D54DdfFA27837E9822425973c1010557E3": {
-      "swapVol": 0.3762,
-      "addLPVol": 0,
-      "pts": 0
-    },
-    "0x450CdCE21671f321B4c7c2f45E8CD173b110B300": {
-      "swapVol": 0.35793,
-      "addLPVol": 0,
-      "pts": 0
-    },
-    "0x6A6e798dA66dA4a70452F53e5beD23E3F2355c57": {
-      "swapVol": 0.39434,
-      "addLPVol": 0,
-      "pts": 0
-    },
-    "0x6904594B258A3398f5484D3F5D81a04Efc54630c": {
-      "swapVol": 0.59061,
+      "swapVol": 0.5298,
       "addLPVol": 0,
       "pts": 10
+    },
+    "0x3A2d76D54DdfFA27837E9822425973c1010557E3": {
+      "swapVol": 0.6762,
+      "addLPVol": 0,
+      "pts": 10
+    },
+    "0x450CdCE21671f321B4c7c2f45E8CD173b110B300": {
+      "swapVol": 0.65793,
+      "addLPVol": 0.3,
+      "pts": 10
+    },
+    "0x6A6e798dA66dA4a70452F53e5beD23E3F2355c57": {
+      "swapVol": 1.2958385441697273,
+      "addLPVol": 0.3,
+      "pts": 30
+    },
+    "0x6904594B258A3398f5484D3F5D81a04Efc54630c": {
+      "swapVol": 9.830128900790738,
+      "addLPVol": 2.4968734895800293,
+      "pts": 360
     },
     "0x5BA124aD9542CE378aA41D8C34A3C591AdbB8d04": {
       "swapVol": 0.35996370870992855,
@@ -12347,13 +12347,13 @@
       "pts": 0
     },
     "0x95a4dD73DE6bD524766b32b55573806eE4DE3CcE": {
-      "swapVol": 11.8039986250237,
+      "swapVol": 11.9039986250237,
       "addLPVol": 1,
       "pts": 330
     },
     "0x39823b466a9031984baE5b1fCf1394145be38b40": {
-      "swapVol": 0.002,
-      "addLPVol": 0.000991034708732805,
+      "swapVol": 0.022,
+      "addLPVol": 0.007609896004663728,
       "pts": 0
     },
     "0x9de76B30ba7B40d19365A1A91f3a4Be041759023": {
@@ -12367,8 +12367,8 @@
       "pts": 0
     },
     "0x5527320E2754a75a3D1d67E366d4D092AFF50583": {
-      "swapVol": 0.11624301543667229,
-      "addLPVol": 0.014201076025073521,
+      "swapVol": 0.11789724997191695,
+      "addLPVol": 0.01620107602507352,
       "pts": 0
     },
     "0xAee460464991f34c260625a40b9076c7cbA8BAF8": {
@@ -12392,7 +12392,7 @@
       "pts": 0
     },
     "0x0291dDfd8bfaC5500CBFbd8f2fd45ED655556347": {
-      "swapVol": 0.06,
+      "swapVol": 0.0605,
       "addLPVol": 0,
       "pts": 0
     },
@@ -12412,14 +12412,14 @@
       "pts": 10
     },
     "0xEf16aF313523e1d977aDFEd721494eF49B37309C": {
-      "swapVol": 0.012,
-      "addLPVol": 0.010552976806797988,
+      "swapVol": 0.03818675579755421,
+      "addLPVol": 0.011290930710229052,
       "pts": 0
     },
     "0x1B6c7b16DC19eB860B1F75B88d7096aA4Bc33e9a": {
-      "swapVol": 0,
+      "swapVol": 64.4752908079786,
       "addLPVol": 0,
-      "pts": 0
+      "pts": 1580
     },
     "0x7E6c8462Ff118e164f8CDb09Df7F90c6DB3b743F": {
       "swapVol": 0.23,
@@ -12512,8 +12512,8 @@
       "pts": 0
     },
     "0x0664b229Afc0BEc71cCc12184ee1826E45fC0081": {
-      "swapVol": 0.09555123250321625,
-      "addLPVol": 0.0002,
+      "swapVol": 0.09565123250321625,
+      "addLPVol": 0.0102,
       "pts": 0
     },
     "0x13c0D1c1eA1f0EEb8Ec41Ed221cA6Be264510664": {
@@ -12627,14 +12627,14 @@
       "pts": 0
     },
     "0x88E7E18c5c22081b0956ADFAA134925FaAC2782c": {
-      "swapVol": 0.3,
-      "addLPVol": 0.29822593936169006,
+      "swapVol": 0.33,
+      "addLPVol": 0.30819622083248915,
       "pts": 0
     },
     "0x05336e92EdEf2883D5cca2aAEee1B63187CEf177": {
-      "swapVol": 0.4898817974901117,
+      "swapVol": 1.0899817974901116,
       "addLPVol": 0,
-      "pts": 10
+      "pts": 20
     },
     "0x821c37AF6Ba3f899209406d1393b888C934cc5B2": {
       "swapVol": 0,
@@ -12687,7 +12687,7 @@
       "pts": 0
     },
     "0x96af1ebB79Ce0e095e155dB1868f7b9106D90beC": {
-      "swapVol": 0.0546,
+      "swapVol": 0.0556,
       "addLPVol": 0.03772332787508271,
       "pts": 0
     },
@@ -12757,7 +12757,7 @@
       "pts": 0
     },
     "0xDC2410ab222248159Df1e26059186F3768582b96": {
-      "swapVol": 0.596,
+      "swapVol": 0.6347936979900233,
       "addLPVol": 0.03,
       "pts": 10
     },
@@ -12777,7 +12777,7 @@
       "pts": 0
     },
     "0x11b2deF4Fd066d40eF9722f8936a06aA291a32f7": {
-      "swapVol": 0,
+      "swapVol": 0.000243,
       "addLPVol": 0.01,
       "pts": 0
     },
@@ -12813,7 +12813,7 @@
     },
     "0xEe29E6DFd1771f6901b2fB919FC9503bb6F7d4A8": {
       "swapVol": 0.01111,
-      "addLPVol": 0.001011901254211553,
+      "addLPVol": 0.001083888207854588,
       "pts": 0
     },
     "0x3b3b747AaE49BECb89B60C965400F0631d56FB5A": {
@@ -12967,9 +12967,9 @@
       "pts": 0
     },
     "0x1CE4992480ab0F106AC1d981A73976bB83Df646D": {
-      "swapVol": 23.439761474589783,
+      "swapVol": 27.439761474589783,
       "addLPVol": 0,
-      "pts": 570
+      "pts": 670
     },
     "0x5859659cd14333Fc0d23c4d3cf275C79F007eF42": {
       "swapVol": 18.518887460841007,
@@ -12977,14 +12977,14 @@
       "pts": 450
     },
     "0x91f92F125866a87BEdEd5aEfA26bc129dCB91bF1": {
-      "swapVol": 13.429469183125832,
+      "swapVol": 31.941275217293494,
       "addLPVol": 0,
-      "pts": 320
+      "pts": 780
     },
     "0x3376aC9748f15d3D9E1a119f38Ca3e0E32509581": {
-      "swapVol": 18.01291684313376,
+      "swapVol": 27.458084069706985,
       "addLPVol": 0,
-      "pts": 440
+      "pts": 670
     },
     "0x0B39C90c438712C4B34efcd477f3a2cd8c94Cb60": {
       "swapVol": 0,
@@ -13023,7 +13023,7 @@
     },
     "0x6b397f602b6e7582f102d55d6fbcb1d060C163c4": {
       "swapVol": 0.3615559018738596,
-      "addLPVol": 0.0001,
+      "addLPVol": 0.0043,
       "pts": 0
     },
     "0xFC30073e3440514d644c2ebab4a0B1883CF0bF3d": {
@@ -13063,7 +13063,7 @@
     },
     "0xf519c09028111f2C0092959074b06Eb9C0cC3EDf": {
       "swapVol": 0.2637904909134585,
-      "addLPVol": 0.001,
+      "addLPVol": 0.0021,
       "pts": 0
     },
     "0xd1f70ee5ACdAc104c06FcbBBDB86742ECba2DAe6": {
@@ -13073,7 +13073,7 @@
     },
     "0xDfE65feffe0BE9A7498cF389e9AA5720D101567a": {
       "swapVol": 0.4453102483988573,
-      "addLPVol": 0.001,
+      "addLPVol": 0.00511,
       "pts": 10
     },
     "0xfa181c3B011633a5eB7c323FCdc1eB386b7d2149": {
@@ -13088,7 +13088,7 @@
     },
     "0x7619f645787d391E3Db487D35bc622E69D8cCBd5": {
       "swapVol": 0.3214655277426036,
-      "addLPVol": 0.0002,
+      "addLPVol": 0.0034,
       "pts": 0
     },
     "0x60a381E19096deFb0882829cCf524588FA65a323": {
@@ -13154,6 +13154,281 @@
     "0xc27b5CCdd57826E3F2f778e8E7AF30Cd71C7C177": {
       "swapVol": 0,
       "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD74e302B76ADA3eeeBF49cbDd7c88fd218d169b4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9161f6b7B78317fbf4e0dfbB1df39910bd23dee2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x219F129956F508C574B0A89AE407211711fd6D81": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf941c6304F03067105178b61615bB41dB7330508": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6DDCcfD749Be2D763E37504CB66ef21f8d370338": {
+      "swapVol": 0.379282017673841,
+      "addLPVol": 0.0001,
+      "pts": 0
+    },
+    "0x5353ed2Fa44DEC071329F25350c825Cd70e3f20b": {
+      "swapVol": 76.18441375812122,
+      "addLPVol": 0,
+      "pts": 1870
+    },
+    "0x9683dbDB7b77d56994EeE16681DA7636aC1E6D70": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAB33411041Afaa781E7C9A7707Be0F5ca7c5C0e5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeA290d18Fa73e9F266a64332d06a3d0621e7127C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0892d96DFFABD62CC3B51cCEbAb451f0B2AD6e17": {
+      "swapVol": 0.15014947377920246,
+      "addLPVol": 0.00132,
+      "pts": 0
+    },
+    "0xe96ECD34bcF9d08e8E93Fd7592EFc0Fda65b9FFE": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3c939c48583459F89885f349b34c705f890421DD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3bE09D1462F86c9a9cC7301cd622F87ac867BAf1": {
+      "swapVol": 0.04,
+      "addLPVol": 0.03981567614270524,
+      "pts": 0
+    },
+    "0x5a7BA009B0B3E57725c5eb455242CF6bF8B267e7": {
+      "swapVol": 0.16606432663809492,
+      "addLPVol": 0.0013,
+      "pts": 0
+    },
+    "0x044E8DaC59d6B2718dE84298510b85b2E7c75A6F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x20a77BF7F88D6c70236AaC1f612dd679a217f1D8": {
+      "swapVol": 0.003,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6bDA5782036bb0706715575489311C604C1C6032": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9bFA71a326A255e1984C97F72FE361dAE34872Ce": {
+      "swapVol": 0.025,
+      "addLPVol": 0.000992628614740208,
+      "pts": 0
+    },
+    "0xd60F6bF502C5593Ac3A25912Ec98a05532aff12a": {
+      "swapVol": 0.029,
+      "addLPVol": 0.000991034666077777,
+      "pts": 0
+    },
+    "0x5E8B985A55CE97B74f10283E9B9305402AC8D4Be": {
+      "swapVol": 0.09276654596074302,
+      "addLPVol": 0.025,
+      "pts": 0
+    },
+    "0x44E215Eba8DBC92B6c927Bc18F812e22bd1eAc60": {
+      "swapVol": 0.08,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x51a3EA1DA784A37b87dc088E9FC1D9345E572289": {
+      "swapVol": 0.10677560964647027,
+      "addLPVol": 0.011,
+      "pts": 0
+    },
+    "0xb543575de9b50abc8b32Aacb2fa74279935d1Db6": {
+      "swapVol": 0.09699566256404468,
+      "addLPVol": 0.011,
+      "pts": 0
+    },
+    "0x7fF83CB7AD436A59d8e1728D581C975a43d5F17b": {
+      "swapVol": 0.13747343218601846,
+      "addLPVol": 0.009,
+      "pts": 0
+    },
+    "0x68F428bF550f58cCDE43f40464f2E5e61aaa8DcE": {
+      "swapVol": 0.02,
+      "addLPVol": 0.006,
+      "pts": 0
+    },
+    "0xE8A2AD8d1189A35eE653034333039403dA74F76a": {
+      "swapVol": 0.11481127651548172,
+      "addLPVol": 0.011,
+      "pts": 0
+    },
+    "0xc87b7A6cFBc20997FE8aE90F4C85eA160B6c4822": {
+      "swapVol": 0.10847983921662811,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x49B7430f99522bE607ef0a9c7FD944855a184C4e": {
+      "swapVol": 0.07676797764890127,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x75F50598b5F1651Ad77D9bC56E741De5D5DF1233": {
+      "swapVol": 0.08610619235366035,
+      "addLPVol": 0.006,
+      "pts": 0
+    },
+    "0x5B7d67BbeC8351C77122Ab8154aFC8B4c5b3399E": {
+      "swapVol": 0.1549724598853547,
+      "addLPVol": 0.011,
+      "pts": 0
+    },
+    "0xf4981b3dBB72b04EdFA33be939A16b4f0cc3e88D": {
+      "swapVol": 0.08172847001197854,
+      "addLPVol": 0.011,
+      "pts": 0
+    },
+    "0xc4a510d9b93F46daE35c664A3041667a78371c9d": {
+      "swapVol": 0.07801619903565261,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x74b9a3270D622A031bc6f8Bca2220B0178Bd9D9F": {
+      "swapVol": 0.07805234573694035,
+      "addLPVol": 0.0015,
+      "pts": 0
+    },
+    "0xBdA173C2C9992893EB3f2dec97Ad02dEDa67bFcA": {
+      "swapVol": 0.07650364388877498,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x413f90e7C29917e3AaaF4D90Fe835Ff91EBeA302": {
+      "swapVol": 0.07446341306870702,
+      "addLPVol": 0.0002,
+      "pts": 0
+    },
+    "0xDBC411369eea7708487988ecF0076f9f0342fd49": {
+      "swapVol": 0.07430688354385523,
+      "addLPVol": 0.006,
+      "pts": 0
+    },
+    "0x5cA2e6E2B8af23d01B359Ebb20df40686B62C328": {
+      "swapVol": 0.07881136346868968,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0xA3Fd5aa4c369ACC47f7a35A74Ab18C3ef7C82Dc8": {
+      "swapVol": 0.07742387129169477,
+      "addLPVol": 0.006,
+      "pts": 0
+    },
+    "0xdf1db8aa8fd6E6b1D48533C21e19Bc63209FF7FB": {
+      "swapVol": 0.08872381557288189,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x9C45dA341F171F62E8E3BC085bA1837Df8CC53cb": {
+      "swapVol": 0.0745449178990833,
+      "addLPVol": 0.002,
+      "pts": 0
+    },
+    "0x849d31023c2719f6C5Be279C119d4011e0A80388": {
+      "swapVol": 0.0734393994000174,
+      "addLPVol": 0.0011,
+      "pts": 0
+    },
+    "0xCfb08Eae25A6A3e5CDE02F971c0104be33Aa9b6c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xFDDA757E5f1ebf3BF0e45FEc81A32295587a155B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1F5Fd1893C75dca9BC4121CE462871A7D44F37D9": {
+      "swapVol": 0.37017506568760145,
+      "addLPVol": 0.0001,
+      "pts": 0
+    },
+    "0x097391B86e4FA88d58a12F7C7586F6758f7B0c3A": {
+      "swapVol": 0.17046449793052484,
+      "addLPVol": 0.00146,
+      "pts": 0
+    },
+    "0xcFF9855dE10eC43406BbB5BA859990828dAbcB90": {
+      "swapVol": 0.08967227399847061,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x842894e8676514364bf0F8775Dda87e6663CAf12": {
+      "swapVol": 0.16819308262885713,
+      "addLPVol": 0.00149,
+      "pts": 0
+    },
+    "0xDf9d8617a59a2Aa1B955c597f1c4c218d45594c9": {
+      "swapVol": 0.23400422480575997,
+      "addLPVol": 0.0001,
+      "pts": 0
+    },
+    "0x3E36330BB39AE73A8DCD90bA49dA0B3E9b4f6CEb": {
+      "swapVol": 0.17415378869397627,
+      "addLPVol": 0.0015,
+      "pts": 0
+    },
+    "0xe82cf7245dc157656c103802B17BC8339eAF969D": {
+      "swapVol": 1.9886405349e-8,
+      "addLPVol": 0.01,
+      "pts": 0
+    },
+    "0x2705568E24ba12493478264EB5ED71EF1bb6465a": {
+      "swapVol": 0.29833151574414724,
+      "addLPVol": 0.0001,
+      "pts": 0
+    },
+    "0x4A85257A14cBd15c2583659faD907a26D7e06E2b": {
+      "swapVol": 0.33364227288419906,
+      "addLPVol": 0.001,
+      "pts": 0
+    },
+    "0x8F32D8b99DF39294cDE5507C9Df34BB22c48bBD5": {
+      "swapVol": 0.18277257759298024,
+      "addLPVol": 0.00143,
+      "pts": 0
+    },
+    "0xE327125c0D907055f84c91aEB15E8590ababA68e": {
+      "swapVol": 0.15078580883631917,
+      "addLPVol": 0.00174,
+      "pts": 0
+    },
+    "0x800B067c61395cE1fd7b88225F12CF3E054f0d31": {
+      "swapVol": 0.16854266341064966,
+      "addLPVol": 0.0016,
       "pts": 0
     }
   }
