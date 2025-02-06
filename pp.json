@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-02-05T20:41:34.134Z",
+  "lastUpdate": "2025-02-06T20:43:20.247Z",
   "points": {
     "0x2db6e8208f22581C70A4721fde7100eDDd660Df8": {
       "swapVol": 47.98229233621733,
@@ -11288,8 +11288,8 @@
     },
     "0xc94327c66997022518Df0Bc1b43AA9D71372599a": {
       "swapVol": 30.7214538187245,
-      "addLPVol": 3186.7716881805673,
-      "pts": 256050
+      "addLPVol": 3198.8738996428115,
+      "pts": 257010
     },
     "0x577704b66a0554cE944E9185B7b851FeE4AADF4a": {
       "swapVol": 0.4,
@@ -13512,7 +13512,7 @@
       "pts": 160
     },
     "0x357c240F155ba4BAdb2D2fdeF8156F03F3f73060": {
-      "swapVol": 3.1492375997851605,
+      "swapVol": 3.1495375997851607,
       "addLPVol": 0.000268047161837693,
       "pts": 120
     },
@@ -16667,9 +16667,9 @@
       "pts": 101200
     },
     "0x122fe5d43F1f917353576987d645418d139Cb48B": {
-      "swapVol": 844.1453246237311,
+      "swapVol": 954.2911061354098,
       "addLPVol": 13.072534925831734,
-      "pts": 40610
+      "pts": 45020
     },
     "0x9271209400ffEB2Bb46829b0346416d6FeD76c50": {
       "swapVol": 312.0066194386248,
@@ -16997,9 +16997,9 @@
       "pts": 0
     },
     "0xFff7AB666e2B528A8008F23f36975BdD169DDE5a": {
-      "swapVol": 54694.519923660664,
+      "swapVol": 54696.519923660664,
       "addLPVol": 0.37858108751248215,
-      "pts": 11538560
+      "pts": 11538640
     },
     "0x9894a4d820357e9c58E48d667c1C97D5E0240Fe7": {
       "swapVol": 0.09283515293197524,
@@ -18977,9 +18977,9 @@
       "pts": 10
     },
     "0x675bC14456dAeD7662F4d77E61eF0478393FC350": {
-      "swapVol": 7347.719445048118,
+      "swapVol": 7417.719445048118,
       "addLPVol": 4957.468119592009,
-      "pts": 793150
+      "pts": 795950
     },
     "0x48CC242da561D318b62EfC6df3134C750d2584cC": {
       "swapVol": 0.24456532658466706,
@@ -20912,9 +20912,9 @@
       "pts": 230
     },
     "0xD75333966a343E875cD7e57f6cbCE27721a9CED3": {
-      "swapVol": 230.37753836429383,
+      "swapVol": 230.6048787293297,
       "addLPVol": 0.07093350257949319,
-      "pts": 13230
+      "pts": 13240
     },
     "0x789148AC67bd73eF19a3ba11B225bf059f6Ce3D9": {
       "swapVol": 0.00300999,
@@ -22987,9 +22987,9 @@
       "pts": 0
     },
     "0xb8c3237A3238505C9557D17876c6129422968EBD": {
-      "swapVol": 5415.755196479473,
+      "swapVol": 5662.89013500114,
       "addLPVol": 0,
-      "pts": 219630
+      "pts": 229510
     },
     "0xE56b11787D81B5f4965e135eB4c9E9e99479d9eF": {
       "swapVol": 0.2589516156048529,
@@ -27162,9 +27162,9 @@
       "pts": 0
     },
     "0x47eDA211B43f20Da8c5eCc32D0459425dD59d438": {
-      "swapVol": 58.272641777310135,
+      "swapVol": 74.94955293400871,
       "addLPVol": 1.7116523187230928,
-      "pts": 5760
+      "pts": 6420
     },
     "0x11df873cb00d4d262E02aafC33036D5a7e6C367c": {
       "swapVol": 0.002963075186107354,
@@ -33242,9 +33242,9 @@
       "pts": 0
     },
     "0x7f0810a54af9B79F8d783cF217465C108efF0eb7": {
-      "swapVol": 1189.2191935032472,
+      "swapVol": 1628.6879914659416,
       "addLPVol": 0.03920555074568069,
-      "pts": 167810
+      "pts": 185390
     },
     "0x17E9167F0CC3e14c33f01651DBf58A7aC58d423B": {
       "swapVol": 0.1127685510192832,
@@ -35342,9 +35342,9 @@
       "pts": 512550
     },
     "0x45c74bD375666154264E69BF784a6b4ea8FA180d": {
-      "swapVol": 4622.643515319618,
+      "swapVol": 5393.547823461868,
       "addLPVol": 4311.143153283984,
-      "pts": 571580
+      "pts": 602420
     },
     "0xF19b7B82F67DEa9c4B104BC6f1BFB79195506e06": {
       "swapVol": 0.0182,
@@ -38962,9 +38962,9 @@
       "pts": 0
     },
     "0x4603e5fE0470F573dEc55082617d08A51EBAAF89": {
-      "swapVol": 3434.976795534525,
+      "swapVol": 3959.951223692587,
       "addLPVol": 1582.1137822099363,
-      "pts": 340700
+      "pts": 361700
     },
     "0xEbBE8407eDa94354C2D54242f44d59619c184D59": {
       "swapVol": 0,
@@ -42787,9 +42787,9 @@
       "pts": 0
     },
     "0x788b47Be99287FD3AAA8dD4c6B1a587221273e3d": {
-      "swapVol": 29.763275579103087,
+      "swapVol": 32.9375072114245,
       "addLPVol": 0.03635803154745682,
-      "pts": 51930
+      "pts": 52050
     },
     "0x4c22300C3421b8e9551F632240f4A08EAB6Ce1dd": {
       "swapVol": 0.12999774752899704,
@@ -43292,9 +43292,9 @@
       "pts": 0
     },
     "0xFA32A93E31E1A52CAfD269C179c465174Ad32f8F": {
-      "swapVol": 61.0865300440141,
+      "swapVol": 94.17715471205535,
       "addLPVol": 0.000008120128467631,
-      "pts": 95120
+      "pts": 96440
     },
     "0x8bc90309F4F5e5973DBE15F96b031DAb78356d85": {
       "swapVol": 0.28325557929930334,
@@ -70432,9 +70432,9 @@
       "pts": 0
     },
     "0x3347cA09E6699Acaa9BD0d4871a9b43D4cB55F1E": {
-      "swapVol": 0,
+      "swapVol": 200,
       "addLPVol": 0,
-      "pts": 0
+      "pts": 8000
     },
     "0x618d901816237a102284613A3a78759f6245A63A": {
       "swapVol": 0,
@@ -77087,6 +77087,2171 @@
       "pts": 260
     },
     "0x29DAD9B3A482328AbdA6DD4F134Ce25d8f522Bfc": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3923bD7B220E777154D70403924256cE5C111B8d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xCE1B20E1803963C4a53355b439128B1Bdc416729": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4647AE9b0716269d41f9355374F65CdeC0e3Fa62": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE7fd1197b65d33322d73a35cCce744FFE6d2633f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa75e052648c7139D9D37f3bf37aBF0A87F954B2e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x47A512c5145Ee9F7aF16Ff3968647605A6624302": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd100dB9ECB90d378965F546B29A193f9BdD4A5E3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0B49782A6D09a6b6D438C295CcD224cF9ab6175d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF7C1586Da8985Afa230e97053175a53E25d2d920": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE29EBD4734754059aD48C84565Df7A679C1f558a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x47e8F940a9Dc2Ca86dA9c116ab23EC92856c27eb": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdd23dD2a9D7F29b1C9793B0B1b3180B9083E3C33": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x705AFac65692122716f5da47b2e85e0a18331618": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2A45e9054D71678Bc417313D057BAA1FBB34c617": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xCb52E523f5B94A13c035c4cf2e0c78BA55c7Da27": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x187c43fB807b4416d71f696Bb873adc80B99DE70": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x410528bd8563e120CfE4D8ECCb94D5bE153a012A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7C3bA69766a300f9dD62c4C5C355bC7b544BC2ca": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD2bED6d207E4f2c1578b58211D4cca97E8162A10": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x247b3F02Eae45F2a0077034Ae6387809bE6C5918": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2898C913c5efBA66068d507806103Ec5876D3A1B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD4029D49fd28B909EE62D81ba0C3aaD1CEa15353": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x995282197B4bb4d563EEfa68454fC4d65ea967Fb": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x57F4d7FA692fdd166d34Bf9a4C187a1D5f8b6Eb3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x88e87deA3bf0E16Ce8b452dF505aCd261C58F1B6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF35EbE40af7F721478517CF79629aA4Ef06Dd3D9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8D8f21A692EDF550af7888D0b0df7336C42b7fe2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x110b4fdEB95829f755e7b4DD23b9d17A54267e33": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x930F45F23275b646CCA38FE230Eeb4B8b525b882": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc59646a06570961CcD4C7fF20E97da90796587eA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3c12dc7C51561bC4bE9961053Bb06D7918db19c1": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5a4d7fC435b9f0074bD2D282aa066bd89B400334": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8c5B0117F04de022039c043A0672f71Bd416d11b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA10Eb0C71Ea30423c8e8B2848a590a6aC15eC215": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7bD7b5F78BD2637a73Ba80661fdEBEdE9C8647Ca": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6ceFe42B22aEB95924e1615dBA2d1CF1CbDC247C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9b3f084e989e7E783d384784E7F636cFEd9918b4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb2e0b318B6b55A09543222879EfAB83B7A3A6fC0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd442F07B08243Ea04d2F143E8D9cB83BD9946F20": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf39F5B26234beFedB7f4ae3f89100e330Dc488Ed": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa12e9E7130d5660073aD4061C2d55149BbE32515": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x67C253A81d60f7033A2066c64A6E05CA6F7081B0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x99714475978cB3D8e489Ecf50b226cEc0BE645B0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x865E0F3EcF743b39d0381d30bc959964Ac0bB27B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE07B5b8Accf316FDCc8A5620bcC285877D0bfe51": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC1C3ae8d70FDAB16fD5e6ac9813Fc9C93Bd2a658": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3C859973dC15A57979761CDc233f509EaF8631ed": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB89b5e0A812232Ea92564333418ba37Ff19D4a7f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf4Af626972f5281a0C0702f0C0921e8600F46d35": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x544f3EF5242b277E9dD20f3FcC829673Af97f2e8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE67b0541B5Ac37748057BBC6FD03d6F44aD83bcF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3f30b5189581a6b573a1eD3e9CC832BEA15d8353": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB75dddC96B0bd0d077e23709A01E3d5ad8808414": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x761A25cD1639e30e7cF737822E5F466362AB73F7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE5213e963c93FbECbdab813B05dC1Ba69b170968": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xcDAed16451fBF25B02ed35B85eD3669808F20e4d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb32d7130b2575011B7bc6A80e9d4493DDBa2E041": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2345eC41Fb04EEf80c73538e259925cB0ab38a7B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC08eDfB263e9aD6B65bB0deDB077DF3947cb07f3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9753507ba53937A07D2d573A4A950F84a1784e1b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x85f4c8153E8164D40252bF961A0e7e19Ad7DF6Aa": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5969a996d17eac990868c6327d543011D57da92e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x218Df136808d10141AfEa900Ed785D0Ad11ddAcA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x41dDBcCcB5d5cB12307297EA26213e269a682D5b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf329b989103a4672F487cC6C35bBD326Fa551317": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x122F944eA9A242a158f6322Bc28cFf02865E02A4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb47714C58599C4cF5c924af11Fe4eBB3942f9CF9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3b2817006dDe1B1789570bB54371DB7fA7d1BEDF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x69fE4A743F89C14194EfEA110a935ddaeaaeE167": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7906754e954C1e0Fe7e65452Bb4c8bEc3d268D1A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa071aa03F7c68F16BA18a9652179929E769df17c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5F472E015fe579B01b9131E46392ba2c45B6FCb7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaf14208Af66A5706FcfC69fc9E2D257753ed0ae4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa7cFEA2682FB8b6385438025E4aDF27DEF4cEf49": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5DD2de503ddab82233EbaF229fc6B140e821F40b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4AAE2eB525544bC9ddf2077326369317e08CCd37": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x494eDb1Ec011607e0A727Aa4679562F5eB427a02": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb8137251dD79AfE4dd6BE59e1876B8Af7C99409A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7113434f44d5f8623a5a0dE2aE88FCc166350a22": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4F024Eb1140d19715F1b70f1F8c3fD0900E9ad72": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE6C8C851627a995Df3F6ded24702bF07166b7363": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x78b17990328E7F0518C7DFe5b0aE53184A1CB4c8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd4dDC147697Af54613cc3321E9eC36BA4a3D0b47": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8e6A96370f73b74410Fb92B6F16130ea4615085A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4149DED32296339C2Fcd17F05EA93553e3cf3C4e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x48e34470a125618C8724A07582ebCf8e22D07B6d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xad0B3c02121670d14ddFf9Dd4dc0c3AAA1bd6BA0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa0A506344cAdacDFE87a4ca990BF743E4761A4C0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0721Ae3e299F8A0c8D5642f85fAB50C74410A7E0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdc214171F9EB1A14291ec04a17C1d99643EeEE87": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3B31419487742C34cf23EfDd2701a07a6676b8c5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6ad703218D964C695C53A58830BA3f1c0dBBd9dD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x18F765D4a15Df304a3fFD84FAEbfC4ad14cB5e52": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8A47290F310A53AF22aB49D5D018B541219ae8f0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF81571b1EA2ee093571E2A422b708D3edEbeAa26": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3346D3BAAf6D7606Ac44fCfAD771A7B31a50Ea9c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa4a9F5675F7a79D943A95a2dED581BEA2E280F65": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA0bbf5EB0977eE080f45251C5006008A89079d79": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x68607A64d6fF05ec99512B8C6C128a6681cC0d89": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD61E2a424c3c8c88fDF6d17c44aDbE79048dDb55": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x462A45801C8266e7074506FDCF970d096B0c89FF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x99CAF2513fd0556E8639fc3aF981e2389D56D4E2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0aE7C1FFdE6AAb6E74cDA50Be9c0d9B1ef3B8cEd": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe8A2322457B9C5DeD23952abF3A839489E93e061": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0a14A49811f170774340C30232c7991D0E93dbE6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x64241b829A48fb9Dc914eB05Eb34Ec76FA5A8972": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaaF2686b1FD2C6BA7Ca494D05e5aB01Fa8578A45": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2B2940ad52323e79606beFB7454A623CD29E9Aa4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc16FB60C34a47dE2D45e0CC6e0262dDFDFf124e7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe60236C6cA2886183cbE36906b02Cc693d661c12": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xBB58B476e91690817CC60f2DB76842e76d919e9e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xfa3FB953b30Afba6BBe5351a4D10B8B9bF18547c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0689D2c69f99489F376Ed53f33B44Cc12bD42d0A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0d3c8Dc1Caaf5798d63b6770696d38E84157490A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x06bF9b3741572440d8E41333fAa9C500507bbBB5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x10A407CA538d639C8A641ACE61a3ACCb255F22D4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1047501E9DeB465F5fF9053382A49793245eF17f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xbf5Cf598E8994108Ae4b6303804264Cc7B2B692D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5e432197ce9784d797128B085794d5CFfA7d13F2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc3Cf39023a3638a9dbB98535c07d0EA1a252bA3F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4F79d2d64AAAe259F5a1ca9386B519B4eCcDED13": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2192905925feCB878716A9C0A9897d342990B331": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3Bfb931D0FCB2A9BC1181d1C9110ECE8d2414049": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe15700702F8275D8368dB765979Db0595E966722": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x648E52C73C86fC413b64F7Fcc7BfD137D3ed20C5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8bD14317B9ec10E5c5b9298Ff961C9B2D67302d8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc7C2407196b4cB10022467A9F2b8504BC9612BC2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5182597E121087CE18DF3111869BD0F00968F466": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf77a5a59Fb5314b1eC3319C59bbD54185541b4B7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAF5dfEbA06996678c167ac7317487300eEc4bD0D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x64C7BCa4602237d23f7cAb650FE8Ad0f9319ceaD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8D3D8A65fa01F7060e1496207Bc691D2C9E5Cdcf": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA3cd02066420A7DeE5110e9753FA2d659806367B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xcad1C3245BF68bC21F2e4d7E7D7dDDB8896f6142": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeB80e84CB029b60E71FC20E16e2955B8D197D6EE": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7459C5BC22C496160E9B069551cfd5d4074e7475": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x18211ac8534CB549AE65c2862C1EA9E4205416B0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x996AbbA885b33f1c55AC3F601849954D46E3Cb94": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0C992EDd6fee842A699D1E45C1B0AB48671BD6B8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc5f94e21d0Fd794ee7b2a783865a4609544CB9C7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3A4012459E698fff81524C87c7A0BB855f436d62": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8B36CF6558939b428C56e1026788367879cE6036": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeE5F45D07D15555E50edCFB38349f48cb447BE08": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEA1F8aF37E09aaAdF92016D5446C3A19E2aBCfBc": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2a1B974F7C8c15bebb12f27146E570Ab9B7403A2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x19bED9880729B36948Bf3cb90894F9b92E37DdDD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x68eAcBe7D1E13aD3e1afCB5Bd2ab06d5d2792875": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3c31e9fF4278f2F07dBe4Dd79012e34Ccc773f31": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x691FE3839728f7BF9AaC26a09693239dfCfA5169": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x388292BC3921ebd328c7F067907F607FC81B4420": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x303B3476B5a6A5a560DD3CE5cdD3d23Efdce69B6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xDbD548Ab3489Ca7320faFFf2E12ED11C33650C1B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEaa66BC2bF5d7021Ab5D10ddC9576520066073fE": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x009E4B732bEE48021e2FAc17A1D6d093Cb7Fba72": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaF8075C48821a68C5E103b444017Ff536BE3C8C9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa0AE73d6d198E869BbB4772E65BE892aDD73f7a2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD4202c9b512D4eCf02a02153771E0046c7B891C8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB4a306f518eaAa21D57bEcD4BFB19FAE95567e60": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD107bb8855160004c4c320bf65D6883f5291bA7c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB925645a51934607349Ada43feaB2Ac2544f6D0E": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf13a34c2a6C4AF6A25C9A65b319ee8C1372f285C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x44281C1D01023915D011887CE9a01907153c2C22": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x70a9EC7040708221B862e2832862e48e58eF22eA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd5872471964BBCF8eA28E8856F29D10B197d7C78": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf498f7E6A26030F7c89B4072E6c453256F417Dcb": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe03840542D366bE848d3382763A2F0d23d9c2596": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xcE5c3b44513a0DC7f39b10fbac6106e4d36d077c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb839BAD7b8EaA55C2c0672f97C3Dc28bAa9839d6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7c6645041e71F86a15DF5114EB91499Fa3FDAcC6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAC1A69bA2C46381266d190C882D11F57007E473A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x755aEDe5B74911489F95A0dC3F041C6Ab51cd3a3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeb0A68634D5297317ad5Ef2BFe748176Ec8044a4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA1467cfe25146A6EfF7BC14E7d05816DDb5BB3C0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1FBD7BA9D09D3bcF14f7a7D80A80b11d4A83b3aD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa885469d1B742efA9E770A081CAE8fDac0ce9574": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAc17f8980F819631f97cdaC40572b8a6d5964954": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8a87398Bad94Af7b2b4D719ebD224077F5a3d1dd": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x61758E29E03109e8541D43c248b8332989f218b8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3DF511f7acbd84904e3b267E822b9B36e6A051a5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x50B273920CAC1BE194e9F0c65D3C638FA19c66fE": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB3aEa02600A5C4eA934e08C0Fa7e62F220781EF8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0990d95F3013eFd02fa0787D33CA822EC771fD58": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaCc48705a1BB558A8D35e7848645A5dbeee7202D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x55bc31a3D4d8f63622Be1efB4d5AaEF96F17Fc8b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6158A63722e504E47395C5202cB364A1D2EFaD43": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2805e654287300E2AB801e9B6A9215Dc4b29bca5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaFe18D111028F51c4ECC80011b574815867d3449": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9750dDB1b94959e4eB9DEC58B5DaB974C4920425": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x499C18a10AcAe34ed3c864dC08C6fd4900565C81": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9bF2AD869d01fCc5AB2810843E206acaB90A6bE6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1032DbFf89eeE95300ccf14B635881B6311c87cF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x330e4003a383F43E5B56bDbd30A86D7bc180d6f8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF3becb4A033aB135f8799DAD1f49d0cc23bA6Bde": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x64C29F540C99F3c0d4d9c7b958EB44DFE93ed38B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4E92b71C86B5389D7a03Be2D2392a403b4e623a2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB4EE5E2956b9F793ee68E62A68CC894e911b7cA9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x709b1d2393a2b37cFf5bf4112eAf2b22B1187E39": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6D2AC2e4E4B400a7bA485BC32463428057872B88": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x93690E8cB9911F92b07EC7ef89E5965F7b325E6B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x816F2141c13D5764aF8B920AFC6Ddfa7C7670AB6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6461aB85CCA3FabC0dFa8Ef3c114db6025f9D85c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x368Fa8BF745B2D5f512e38D6408270E82F246a16": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x260F929ad014cCD558aE44A41e74DeA0dFd69c41": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x13D16d70b2cA1351341091277dfC7F229CFc6b2a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd31366020F6Cea6766Ee80Cf96412A99F952eC2c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2745B2843CEFafBB98812fbc2f02B226194b7F08": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6f420CAE745e422FDCcc0c40589455325EFE2818": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9E13931b6477810749CB58Ad331749a6B368AbBf": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEc47A40bA04c87F03ad5B1cde50fd16E663818Df": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xFbbF198491749849d0618Aa4C8C6B200030b3be2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xfaD16D05245070aAF3AbE58BbCeeF6D7d7a23c25": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x06E4137C781e236D6243b3264EfBD43e1F305B4F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x55373E62b27A002301aFe67e11cba0824c5ea43A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xFcBB2E3F7731Df8aeb3b30B5d0997c816CA76527": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEBb2d4Ed907dCc673eA2c80D166758f09d55a63F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6CAdFBeb43a2Fdf46B05631EAf9c9d2d8Cc94701": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x76e42025D7d7a40E1167C2ac6506e1D0215C5C7F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x692DCdd8219FBf7f0d92A0875dA9B51e8b563df6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8EdBAD566b2b194B7c3f2D08204366D02A9A8144": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xfC971923674E02453d519973031Edb13027Ee5C9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3CFfC387fB9cf964b1ee3bd0f56139dCEF405e41": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x92146E5871c91C33fE152F1d39A4Ab65f4eEC198": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x55D95055e5C6C84b4e0FdbB15c3F1Cea28459722": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x99460994A06e1E22234A1F0EF8cDA9642D323C27": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x107e14Ae1c5EAa87F79091293A22b8C4CaBA048D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC81771a394001AE5c0D7fc53EB37f14BD45e7CA9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2c70CbE60790286cdC55A92Cfc69800d0DFca661": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3071DFA8EC065D2E2f4479FeCb6dc0030ca3Ca29": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9D901817c6634232320fc80684671502Ca2B074B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa9eE8764735A81740C9411FCD5887676e973965D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x30E883b27d0cd98779bfF8632A1fFC115255114C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xFA700a78D630095A166d898b1d656486f99819aC": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4220d689c87D7f8d852558bc65E6a453bFaf0A0C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3Be545184C1F28e1F3Ac10b83A20D380a3A45844": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x59306B40dfae826F20a46F9758BcDC1F6e107e8a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x406F77657F1aFF597d139086FeEf0976636D2e62": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x43ECab752681812C8856f403c532f417a12CDeaA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5bECFBE4c41114Fbc29B0D5481f9B86B87Bc04e4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4cED932cF793f034F1c36B569B8532D72FeF50BA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa0E6C654bc3eE3e16feF3d5f8BE253483C4E1147": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x118fD831B283660486aBa2B2b636C8a0D8931d6c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD1DA672fD4f842C4fC5Daf26A4eC781b732D1c22": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x46ca89f9682e425e2262DB741a55A3e9f7848e18": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x23190E4b81B21ABCAF00f146AcD6cda96aaB81Cd": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA7c839B9D33f5355EDc6c6387A863B6D2980B663": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB5Bb377E724395C3aFdFA9AC662D0A08Ee38E4B9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC6571d9c0D5079457D9677a602C6fCC5B09052D7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x31c738E30554937c5086Cb6A99Fc472141adBa05": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x213e6A2A6fDfD8ffdbb0766C65D1C933b13AE361": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x054a8155Aa0A3dBF18A926Ad8DDA83EaBbe6cb33": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x117203565E1Ec645C52A1836B573f97Cf76Ff6F6": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xbC0402Cf913F8C6d20B4a44b7D87e09A09878013": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4f26734f3Cf106Cc401521c3767cE04abADdB229": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9a01F0fBD88d85EABd56DEF6d2caB36426Da6aC1": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA69cf8461F27Ac11D6b82E835d0c1e220b055916": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6e7A2847468624615779f1918F045e7d0fCC1704": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x274CA225D7EEa763dE7dB2Ced55D9Ce7e192B8cE": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0D3Fd082155043b847A648a9e92670ab99dA624a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x29A74127754219A78554ba704895715033E6195F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF1899C99F3514af144021432eDeEcEFD128E3BbB": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe4FF789BaB2DfbFBD0C4b1d50287Aeba555CC702": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xDf1734bC8aDCfd684B6A2BB9475DAa88C626AD7a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x737a490B8f343697B13E89450aCE046891A85910": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1C3FE36613AA81d2390dBAB39DF2767aF3C0264A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0218A1AB36281822b4eDc334d2E58f2A08edB273": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x457A6b34F49fC3Be72D26f7EfA82c28f1EebF981": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdd754E7e136e1E705dD29C40c97F050CEAE6fB2A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7259d170350Cd6076A1FD930583D5CA9C7D529c3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xDaa79fa43647c8494a750905B7dB93B0a0418BF0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5cEB5c58EE5cf6bA26b2755f3f90Ae5E46c497BF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAA05b1fA2717758bf7b7969956961aA2B4153714": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8Bd4f5eA7F335a7986d1D05251D725E3406109dD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1728F654E0AE3c88251a7bDc11BeFE17E638dEca": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xef9AB918B5eAcb081D915eA801047EB976Ed407b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdcd9da3041ca152826Ad5bae827650AceDf95EDC": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6cCBefD855005Db0cDE400df2AD7c569bA5C1BB7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9C4E25Ee60605A3A5B020ca983195f5e0Ca67445": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2F23d02d1bCc3c883041d18531F26903886ffA0b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEfC1Da7791609C3e28cf6EEa45fc318254bdf561": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xbbaf42173919D93b73ecAC83083310C64b12e5c8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3D70a7eFfB879bBC1CBa3d06DEDf6F492821e4A7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaf263d4C47277d0400C930049e4fFf76cbdEF776": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x895971e90d1934e8189B10A7fe37556cd2656382": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xa8A77E2ce8EF16730D24b5ef3734223bB74796b9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf29779b83E9A074aDa2f59e1CFCf971cc9842F38": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9C6A2323797d4E82486e73fB61485618cc1c9d42": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB03AE0F11121f93aD7cD71E4a064F289DDe14f03": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd2280Ea0493B510E4d20CbfEBc685f0b92bB527b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x330036B915BdA23C461F7B177bbcCA23d42858D4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE1a74e5C5994036Bc704dfa8c596c6344fedFD1F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4573ccE5927070DBfC666423481B1792854bbd27": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xEB8145c5c8E1d064bcdDe54FB9ec229EA0fD4606": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x42FBB4eA4342CeA3Ef4c5DE4B57Bd3928a6DC341": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x011660E862474Be8A0D46D327ae52aA0282ecAd7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2F631dc56e4695Fcd601BeF6E4E7B9A7711F9B26": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe228DBeF651F92ad3166277F46F0292B304B863d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2F0f75Db1689411606A763a666fc51dAE9D767c5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xddCe29cA0c202f4C7A7CAb34db79d617C86d60f4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA7f4e22656bD9D536991945606699125E9670A85": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeB4940B8d590f8bF427c081bcf6C900f149AD5d1": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xeBA7FA8039B3cEc6AE08979098F44D11478C86fe": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB9593b0d2b7588f2a9290408aA0c52C1fcCE36aa": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xBB0F3D1B085F4e7772CCb3E111CfB91bAa9a8b4F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe09E7AB51A9Ba3445238458F2F026f98b0de6F2d": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x014e32A09617362758c1c7Db663F531446801fD0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x29Fb2602383607527940E35d427Ef270Ff503E1C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3E83ba9CEDB952E24AA881B77453D0992697aB1a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC84AB7935F863bb69b03012f6889D9F17514a69a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC8b9c371eF64BbBaf45cD3eb0B1410eDE180c68B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb2827E0352B8f7C2B90fa5AC662066463DA4DAF8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xCb1A32DC9205b6498DCCA1A99d66b15B19ABB932": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xda6290a16a5cdcd3E51845Fcac000aE5c083647e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x960A9dF58AD257c7bdDF358257aFe1617dEB9Bf3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1fC59445662bEB3BD5Ca604a9A83C6389446090e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF22d5cBaE0C752fB823891618b92B250D72Eff7E": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x53ACC9ecCFb1906709bbf77753d6Db5F60Bed040": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xed479DEA5B74445d74D7cB9B4C33576De1Ee3EBa": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe2f1aB1D5B2F152773f28BC3aA7638FdE072ae32": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE1A0E853bB485099A815BDfAF405933c40F0d87f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x42F68FfeCbb37EB2aaA2c809DCd9837bd3B56A61": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA4097C6BCA367Bc1858b713920a3eC9Cd069A42A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE8B7944280bcf050C9827288be8bd5Ff7130DF6F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x81f8bBFFAf3eB2750316216Ff366d87A572a132f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC6dF4C5A740CB92Be8F2DE2458686e3a92f539a2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc083a79b6Af1cA19f1991dFA83E944d598512F54": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x99CcFdf5f52a1b9Ba60041E019DdA367a2d8499B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x13e97eD78a3f3553BE0B2eFbE5799ee5F3e17b2b": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x165a56Dc97E2d3B1215a05554B109848B20f34bA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x92bfdacE6b2aC90eD2cCE958bECFC6a68e7ACBf0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x523fe5e134971DE78CEb908B10073848eAAe4dc7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x375ED13540847227DA2c2D7534273D58E79a4E37": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x72A99b3A153A14C7cD460b6631dEb0D01B6F5FC5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x61095556E23C78e5f93d23948e326cd79521fBa3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x47606B82afb205560614C431c3658aB2Ec82BdfD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x985FC8ab83C82fAF91c2AFcB7B523B7E10e44dd7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF7ca629Af99c9e524F0DA5F45F1e671a32273D58": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6AAF1F91190aCf92B05d3158E757754D85f1D9b3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x61b4E97C0d3670074E2C0e9200ec0b3f07f3Bb4a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2a1dddddb1e72c64cB7579339f8e98549Cb84038": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x4F04Fa8A51f9b1546c9F4E534a0129F4Ddc473d7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x01452E29B6a186B7a1715fEcAEa0498A24DC4de8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6aE820f8aDC79e9B335eEDf46e094629f0d5EB3A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc58D1d9adFbD574904eb7B79e331459dAD09CABb": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8BA360C67a867F2e8aAf7A994D59a115e17630D2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x62324d01626EeE04409fd78C000d21Bdab386325": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB629d83d8F29F9e961cF8459Cb94744a8a751A86": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xDd2876caf3Aaeaf42AD4BF7a0e9c2CeD1b5B2aa8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xc63051aF61e5A058A3348cD3590C4Cc82134F406": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe614A9C0532d5dd3Af4647d2850A8b65c24036CC": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5f8AA484318F5782EaE81872833887cfd8916fBA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x44CA7111590bc4085f3ea9b18422A2576cdd706e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7806E25aAE0398Ae6C642E4be1cB5EaCb42CA4d5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8a19f653A24DE7C3EC2013CdFe02E10F502a5f24": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x83Dc870617616829A647170C1D4D0537e6c813EA": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x27c16320dD6518a9fA1698BC992ba627aF9dd230": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdaA97A2C9a2408a400716662Fc3fD1Fa1e1537B8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xaA260619975c0E6bfe4198b0ea54aDE124cc9460": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8ed490EC556E1e36D1e6405465B0fB60368C5744": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6101FC6a5d13695aDa3FAc234D9050C5F5C943a7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8E01D1590144E80af7384A6873b1c39dF8a674F9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x51AA407A72Ed366B34B282BF2730e156666E1003": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xfd2eB2eE8C4F8151B9a965edC9d304D9896A0c7C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2eC8Ef33bb7DAad7B1e95246B28F0ddC8D3D2311": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xd3B1dDA5eF69A06C3300ef1892438C90CabEAf7c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x95f9D4447daEAb2f6019baC06089564Da1af29A7": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x78cf3F6a2DEd52b9ADf2B9Fc35FcdC6DFbA9b905": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAB3C918D5D394572C70731bdbc9bf2c128BDA1E2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x38b07614F7b20d55FF82CB0173CC944271E4f88c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x929837c5113288563FA5b355DCD975F8051cF50a": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xAC44D09791E7DC7086859a395f898330385587a4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xCC9bc23e1A4D497e0bff30C53b38Da4f5B359143": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3d7AEA8F11547457055E87c72CDD64b9f916a7fa": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x6bD3421C19eAC2Ae20C01d4E01954427ba0Ae60F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD919C22D9303cdb9843e6bE06B0fa079dbD378b3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5160Ea0C6aB07dD38D98EA687E9b3e1601b7B298": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x0a0657059E675d76A06255AdFE866c7965FD4Cd3": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x919AfbaeeB35A7Ab326a2e7d5a37682754a421a5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA062B23105fA3D9882E9D20F0F51b97e6cf44212": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA31e2a57B674E27087662F2f20486E8195c40322": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2F47E446d8Caa3393dfc826dd7b7b532E0c7b703": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9fF9EF8a5A95cb16CADE58cC91e6621Dea54170C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5a3b3c693E9005735Ca2f2A2b2846824Fa29A714": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3A553B0daDe6E4148231bEb5267F4200B2ea3b5e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7849523759b89604e5eB4c4e64532A23f1792d2E": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF4f4C397eee75b42eA2fcdfc53BaD4B159b89EAB": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3e08E70615e885F115bfF0Cf149c9DC316b6cAE9": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5ff13dC6Cc592B246a888C39CDB370770898a639": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE7cfFb3AD0a6A45010066f3Ef14B0D1c9527c88D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x95bD7f68697A35d5BCD7bC5965f8B031323a5E69": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5765A1a6C0acfe44B6324AA251D5eAe5273d7745": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2e89cfC6A866c7bD1DBc0454f4d4b9a48748f6B4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x3026faEa4D2094568ef295668bcC4B576C0Fe83F": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xdAec9c4AdBeb74d2dc4CC1d42C4447d3C98Cdb5D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x83036cFF7967C37E4657557d8cfFc18B98aA96FF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7fb63313A824F3819b5336703Bc10f27E8baD97C": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD2663A6661b6AB39856168F20e0892A93f58bC4f": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xDd31a262BAf9Ab5325E97A85c60bb21753fE23FF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xb03FCc91B4c1E42E1D9195FADDE39E878189b6Ac": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x99D190607d48cCDAdfB2db096D04Ce46E5a58AD4": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF2c5ade3584643aa773cb7E18B53b67E189141AF": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5057bF88e8b5C5db78ACC8f8204C0AD8c1850288": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xE3d6CB95eF58e274196825f8CDaccBD5b2C6d93A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf5f8e8FFe58cc775Dc3c24cA963F3a6461EF0db2": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1F36D4f14BfD4442837B49F0490cA66F8D50f767": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x058B242906e8753134a0Bd79c27C9268aCc787D0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2b24fAeB5f33CE95dC60c056f838df1923511F16": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x911D1f28399cAE30F24841aA98c91c4aCf181200": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8cdd8747fAf7699e7060E6e1eDBF6A3f95a0Ee7B": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xceF76102fb6F28663F0CFF5A9e41E05a86e703f1": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x5c385bb779AF88A0B5afF587c43F79B9485706Db": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xB70d0d6E08A1749379de5AC42c576101c2e183D0": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7Ff8D038CE7798BFBDBa1a93b5d373d5E6af3DBD": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x2f6452d65a86fb3229ae5a26100C25309E90Aa31": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x8009a87c6Ed42Fc53EeE9c80574F3Dd435Fc4bAB": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x56424d95e02b81926F823B446Ebb23325e1565f5": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x7Ef0449B8c68db6173FF137fd0208dd4e890F7d8": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x9eeb4Ed23944c9e20AFf9e7DA03596d45C3542Ed": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x1Fb5dA6863534D14E41c275eA578E3f9EDDbD373": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x14F79Ec114397c312D09E385a21d2C7D52d77c5D": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x75cd4B40F061da0D73b1608e381a6a8d08C49B51": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xFCe57ec8c217CB265908B7CF98b740c551aC6Dbf": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xF35F6e3C221860377A2Be159225fDaa1912F4968": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe264b3a121F9b00aC968658fC69Af239dD43Ca9e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xBe3152d3287Ed5F603c9685945A5C643FB773b03": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xD730614a126ae8aC88350B2779d81E4f842b9258": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA9f4E6DAfAFE4d6a74489f2b72C6080940c0079A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x14537627F23a5AefA7ccd6c35c97355CBaB9BD0c": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xf5F038Caf13D040af7A1FFD0D7b582abb76640de": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x19a103723B9E37e74af270614dCc9bd03739c293": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xA044d83F6a061e9Dff7246bf71A7886Ee1EaDeCd": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0x49f58688563B5C0F2F3013AA84061Fac7eB2D55e": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xe95346541d28eBE5c243a6F42Ae1A45F0cD4c65A": {
+      "swapVol": 0,
+      "addLPVol": 0,
+      "pts": 0
+    },
+    "0xC3aBE8B62AE49cbe026229DD45bf4DaEc56C796d": {
       "swapVol": 0,
       "addLPVol": 0,
       "pts": 0
@@ -140551,11 +142716,6 @@
       "addLPVol": 0,
       "pts": 0
     },
-    "0xed479dea5b74445d74d7cb9b4c33576de1ee3eba": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
-    },
     "0xd8d3dee9fd5364bee83943067e52005c3f3f202c": {
       "swapVol": 0,
       "addLPVol": 0,
@@ -141852,11 +144012,6 @@
       "pts": 0
     },
     "0x2244beb088f032735ee40b4194cd8cac2d5386c0": {
-      "swapVol": 0,
-      "addLPVol": 0,
-      "pts": 0
-    },
-    "0x4647ae9b0716269d41f9355374f65cdec0e3fa62": {
       "swapVol": 0,
       "addLPVol": 0,
       "pts": 0
